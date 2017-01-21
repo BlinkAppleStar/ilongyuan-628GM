@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>流失数据</title>
+	<link href="css/base.css" style="text/css" rel="stylesheet">
+	<link href="css/infoSearch.css" style="text/css" rel="stylesheet">
+</head>
+<body>
+
+	<div class="infoSearch_main flowdata">
+		<div class="searchBox">
+			<form id="addSearchBox">
+				<span class="search_ins">环境</span>
+				<select class="search_field select" name="a1"></select>
+				<span class="search_ins">渠道</span>
+				<select class="search_field select" name="channel" id="channel_select"></select>
+				<span class="search_ins">区服</span>
+				<select class="search_field select" name="gameArea" id="gameArea_select"></select>
+				<span class="search_ins">新增时间</span>
+				<span class="timesBox">
+					<input class="search_field Wdate" type="text" name="startDate" id="startTime" onclick="WdatePicker()">
+					<span>到</span>
+					<input class="search_field Wdate" type="text" name="a2" onclick="WdatePicker()">
+				</span>
+				<span class="search_ins">截止时间</span>
+				<input class="search_field Wdate" type="text" name="endDate" id="endTime" onclick="WdatePicker()">
+			</form>
+			<input class="searchBtn BFirst blue" type="button" data-type="Profile" name="" value="搜索" id="viewProfile">
+		</div>
+		<div class="searchTableBox">
+			<table class="searchTable" id="pegeContentBox"></table>
+		</div>
+		<div class="searchTableBox" id="popTableBox">
+			<div class="ZZC"></div>
+			<!-- 查看概况第一场战斗详情表格 -->
+			<table class="searchTable" id="popTableCont"></table>
+			<!-- 3留流失用户数量表格 -->
+			<table class="searchTable popTable" id="popTableContent0"></table>
+			<!-- 3留流失用户回流数量表格 -->
+			<table class="searchTable popTable" id="popTableContent1"></table>
+			<!-- 7留流失用户数量 -->
+			<table class="searchTable popTable" id="popTableContent2"></table>
+			<!-- 7留流失用户回流数量表格-->
+			<table class="searchTable popTable" id="popTableContent3"></table>
+			<!-- 15留流失用户数量表格 -->
+			<table class="searchTable popTable" id="popTableContent4"></table>
+			<!-- 15留流失用户回流数量表格 -->
+			<table class="searchTable popTable" id="popTableContent5"></table>
+			<!-- 30留流失用户数量表格 -->
+			<table class="searchTable popTable" id="popTableContent6"></table>
+			<!-- 30留流失用户回流数量表格 -->
+			<table class="searchTable" id="popTableContent7"></table>
+		</div>
+		<div id="pageBox" class="pageBox mt20"></div>
+	</div>
+	<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/My97DatePicker/WdatePicker.js"></script>
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript" src="js/page.js"></script>
+	<script type="text/javascript" src="js/loss_generalize.js"></script>
+</body>
+</html>

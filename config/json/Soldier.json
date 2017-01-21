@@ -1,0 +1,8930 @@
+{
+ "11218002": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11218002", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 7, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11218002, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 152, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 468, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11218002", 
+   "level": 2, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11218005": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11218002", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11218005, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 527, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 1628, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11218005", 
+   "level": 5, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11218006": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11218002", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 12, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11218006, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 799, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 2468, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11218006", 
+   "level": 6, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11217003": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11217003", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 8, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11217003, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 230, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 709, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11217003", 
+   "level": 3, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11217004": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11217003", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 9, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11217004, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 348, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 1075, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11217004", 
+   "level": 4, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11217005": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11217003", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11217005, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 527, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 1628, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11217005", 
+   "level": 5, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11110001": [
+  {
+   "consume": 21, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 0, 
+   "headIcon": "", 
+   "reliveRes1": 12, 
+   "unitType": 0, 
+   "defense": 7, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11110001, 
+   "costRes2": 4, 
+   "power": 5, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 2, 
+   "attack": 98, 
+   "produceTime": 6, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11110001", 
+   "type": 10, 
+   "costRes1": 35, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.7, 
+   "costRes7": 0, 
+   "uiOrder": 6, 
+   "hp": 556, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11110001", 
+   "name": "soldier_name_11110001", 
+   "level": 1, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 2, 
+   "attackSpeed": 1.31, 
+   "reliveTime": 2, 
+   "warriorType": 2
+  }
+ ], 
+ "11110002": [
+  {
+   "consume": 42, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 0, 
+   "headIcon": "", 
+   "reliveRes1": 28, 
+   "unitType": 0, 
+   "defense": 8, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11110002, 
+   "costRes2": 10, 
+   "power": 8, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 4, 
+   "attack": 118, 
+   "produceTime": 9, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11110001", 
+   "type": 10, 
+   "costRes1": 81, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.725, 
+   "costRes7": 0, 
+   "uiOrder": 6, 
+   "hp": 843, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11110001", 
+   "name": "soldier_name_11110001", 
+   "level": 2, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 4, 
+   "attackSpeed": 1.59, 
+   "reliveTime": 2, 
+   "warriorType": 2
+  }
+ ], 
+ "11110003": [
+  {
+   "consume": 620, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 0, 
+   "headIcon": "", 
+   "reliveRes1": 46, 
+   "unitType": 0, 
+   "defense": 9, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11110003, 
+   "costRes2": 12, 
+   "power": 12, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 9, 
+   "attack": 141, 
+   "produceTime": 11, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11110001", 
+   "type": 10, 
+   "costRes1": 140, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.75, 
+   "costRes7": 0, 
+   "uiOrder": 6, 
+   "hp": 1277, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11110001", 
+   "name": "soldier_name_11110001", 
+   "level": 3, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 4, 
+   "attackSpeed": 1.95, 
+   "reliveTime": 3, 
+   "warriorType": 2
+  }
+ ], 
+ "11110004": [
+  {
+   "consume": 830, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 0, 
+   "headIcon": "", 
+   "reliveRes1": 58, 
+   "unitType": 0, 
+   "defense": 11, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11110004, 
+   "costRes2": 20, 
+   "power": 18, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 18, 
+   "attack": 169, 
+   "produceTime": 14, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11110001", 
+   "type": 10, 
+   "costRes1": 175, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.775, 
+   "costRes7": 0, 
+   "uiOrder": 6, 
+   "hp": 1936, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11110001", 
+   "name": "soldier_name_11110001", 
+   "level": 4, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 6, 
+   "attackSpeed": 2.38, 
+   "reliveTime": 4, 
+   "warriorType": 2
+  }
+ ], 
+ "11110005": [
+  {
+   "consume": 1040, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 0, 
+   "headIcon": "", 
+   "reliveRes1": 70, 
+   "unitType": 0, 
+   "defense": 12, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11110005, 
+   "costRes2": 26, 
+   "power": 28, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 31, 
+   "attack": 203, 
+   "produceTime": 17, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11110001", 
+   "type": 10, 
+   "costRes1": 210, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.8, 
+   "costRes7": 0, 
+   "uiOrder": 6, 
+   "hp": 2932, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11110001", 
+   "name": "soldier_name_11110001", 
+   "level": 5, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 8, 
+   "attackSpeed": 2.91, 
+   "reliveTime": 5, 
+   "warriorType": 2
+  }
+ ], 
+ "11110006": [
+  {
+   "consume": 1250, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 0, 
+   "headIcon": "", 
+   "reliveRes1": 80, 
+   "unitType": 0, 
+   "defense": 14, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11110006, 
+   "costRes2": 32, 
+   "power": 43, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 51, 
+   "attack": 244, 
+   "produceTime": 19, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11110001", 
+   "type": 10, 
+   "costRes1": 240, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.825, 
+   "costRes7": 0, 
+   "uiOrder": 6, 
+   "hp": 4443, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11110001", 
+   "name": "soldier_name_11110001", 
+   "level": 6, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 10, 
+   "attackSpeed": 3.56, 
+   "reliveTime": 5, 
+   "warriorType": 2
+  }
+ ], 
+ "11110007": [
+  {
+   "consume": 1460, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 0, 
+   "headIcon": "", 
+   "reliveRes1": 80, 
+   "unitType": 0, 
+   "defense": 16, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11110007, 
+   "costRes2": 31, 
+   "power": 66, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 79, 
+   "attack": 293, 
+   "produceTime": 23, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11110001", 
+   "type": 10, 
+   "costRes1": 240, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.85, 
+   "costRes7": 9, 
+   "uiOrder": 6, 
+   "hp": 6731, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11110001", 
+   "name": "soldier_name_11110001", 
+   "level": 7, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 10, 
+   "attackSpeed": 4.36, 
+   "reliveTime": 7, 
+   "warriorType": 2
+  }
+ ], 
+ "11110008": [
+  {
+   "consume": 1670, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 0, 
+   "headIcon": "", 
+   "reliveRes1": 86, 
+   "unitType": 0, 
+   "defense": 18, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11110008, 
+   "costRes2": 35, 
+   "power": 102, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 117, 
+   "attack": 351, 
+   "produceTime": 26, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11110001", 
+   "type": 10, 
+   "costRes1": 257, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.875, 
+   "costRes7": 10, 
+   "uiOrder": 6, 
+   "hp": 10199, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11110001", 
+   "name": "soldier_name_11110001", 
+   "level": 8, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 12, 
+   "attackSpeed": 5.36, 
+   "reliveTime": 8, 
+   "warriorType": 2
+  }
+ ], 
+ "11110009": [
+  {
+   "consume": 1880, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 0, 
+   "headIcon": "", 
+   "reliveRes1": 84, 
+   "unitType": 0, 
+   "defense": 21, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11110009, 
+   "costRes2": 36, 
+   "power": 157, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 168, 
+   "attack": 421, 
+   "produceTime": 28, 
+   "costRes8": 2, 
+   "desc": "soldier_desc_11110001", 
+   "type": 10, 
+   "costRes1": 253, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.9, 
+   "costRes7": 11, 
+   "uiOrder": 6, 
+   "hp": 15453, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11110001", 
+   "name": "soldier_name_11110001", 
+   "level": 9, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 12, 
+   "attackSpeed": 6.58, 
+   "reliveTime": 8, 
+   "warriorType": 2
+  }
+ ], 
+ "11110010": [
+  {
+   "consume": 2080, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 0, 
+   "headIcon": "", 
+   "reliveRes1": 88, 
+   "unitType": 0, 
+   "defense": 24, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11110010, 
+   "costRes2": 38, 
+   "power": 241, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 232, 
+   "attack": 506, 
+   "produceTime": 30, 
+   "costRes8": 4, 
+   "desc": "soldier_desc_11110001", 
+   "type": 10, 
+   "costRes1": 265, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.925, 
+   "costRes7": 12, 
+   "uiOrder": 6, 
+   "hp": 23414, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11110001", 
+   "name": "soldier_name_11110001", 
+   "level": 10, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 12, 
+   "attackSpeed": 8.07, 
+   "reliveTime": 9, 
+   "warriorType": 2
+  }
+ ], 
+ "11110011": [
+  {
+   "consume": 2250, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 0, 
+   "headIcon": "", 
+   "reliveRes1": 100, 
+   "unitType": 0, 
+   "defense": 28, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11110011, 
+   "costRes2": 40, 
+   "power": 371, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 349, 
+   "attack": 607, 
+   "produceTime": 31, 
+   "costRes8": 4, 
+   "desc": "soldier_desc_11110001", 
+   "type": 10, 
+   "costRes1": 298, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.95, 
+   "costRes7": 13, 
+   "uiOrder": 6, 
+   "hp": 35475, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11110001", 
+   "name": "soldier_name_11110001", 
+   "level": 11, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 14, 
+   "attackSpeed": 9.92, 
+   "reliveTime": 9, 
+   "warriorType": 2
+  }
+ ], 
+ "11110012": [
+  {
+   "consume": 2400, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 0, 
+   "headIcon": "", 
+   "reliveRes1": 102, 
+   "unitType": 0, 
+   "defense": 32, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11110012, 
+   "costRes2": 42, 
+   "power": 571, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 523, 
+   "attack": 728, 
+   "produceTime": 32, 
+   "costRes8": 5, 
+   "desc": "soldier_desc_11110001", 
+   "type": 10, 
+   "costRes1": 305, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.975, 
+   "costRes7": 14, 
+   "uiOrder": 6, 
+   "hp": 53750, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11110001", 
+   "name": "soldier_name_11110001", 
+   "level": 12, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 14, 
+   "attackSpeed": 12.21, 
+   "reliveTime": 9, 
+   "warriorType": 2
+  }
+ ], 
+ "11216007": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11216007", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 13, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11216007, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 1210, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 3738, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11216007", 
+   "level": 7, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11216008": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11216007", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 15, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11216008, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 1833, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 5665, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11216008", 
+   "level": 8, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11109001": [
+  {
+   "consume": 30, 
+   "skillDisp": [
+    214001, 
+    214002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11109001", 
+   "reliveRes1": 10, 
+   "unitType": 2, 
+   "defense": 6, 
+   "reliveRes7": 0, 
+   "carry": 1, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11109001", 
+   "id": 11109001, 
+   "costRes2": 0, 
+   "power": 5, 
+   "advantage": [
+    11107001
+   ], 
+   "activityPoint": 3, 
+   "attack": 133, 
+   "produceTime": 6, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11109001", 
+   "type": 9, 
+   "costRes1": 35, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.6, 
+   "costRes7": 0, 
+   "uiOrder": 5, 
+   "hp": 371, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11108001
+   ], 
+   "info": "soldier_info_11109001", 
+   "name": "soldier_name_11109001", 
+   "level": 1, 
+   "xGridCount": 2, 
+   "bigPic": "11109001", 
+   "reliveRes2": 2, 
+   "attackSpeed": 1.5, 
+   "reliveTime": 2, 
+   "warriorType": 3
+  }
+ ], 
+ "11109002": [
+  {
+   "consume": 46, 
+   "skillDisp": [
+    214001, 
+    214002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11109001", 
+   "reliveRes1": 24, 
+   "unitType": 2, 
+   "defense": 7, 
+   "reliveRes7": 0, 
+   "carry": 2, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11109001", 
+   "id": 11109002, 
+   "costRes2": 0, 
+   "power": 8, 
+   "advantage": [
+    11107001
+   ], 
+   "activityPoint": 5, 
+   "attack": 170, 
+   "produceTime": 8, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11109001", 
+   "type": 9, 
+   "costRes1": 46, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.63, 
+   "costRes7": 0, 
+   "uiOrder": 5, 
+   "hp": 562, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11108001
+   ], 
+   "info": "soldier_info_11109001", 
+   "name": "soldier_name_11109001", 
+   "level": 2, 
+   "xGridCount": 2, 
+   "bigPic": "11109001", 
+   "reliveRes2": 4, 
+   "attackSpeed": 1.7, 
+   "reliveTime": 2, 
+   "warriorType": 3
+  }
+ ], 
+ "11109003": [
+  {
+   "consume": 71, 
+   "skillDisp": [
+    214001, 
+    214002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11109001", 
+   "reliveRes1": 40, 
+   "unitType": 2, 
+   "defense": 8, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11109001", 
+   "id": 11109003, 
+   "costRes2": 0, 
+   "power": 12, 
+   "advantage": [
+    11107001
+   ], 
+   "activityPoint": 10, 
+   "attack": 218, 
+   "produceTime": 11, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11109001", 
+   "type": 9, 
+   "costRes1": 59, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.66, 
+   "costRes7": 0, 
+   "uiOrder": 5, 
+   "hp": 851, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11108001
+   ], 
+   "info": "soldier_info_11109001", 
+   "name": "soldier_name_11109001", 
+   "level": 3, 
+   "xGridCount": 2, 
+   "bigPic": "11109001", 
+   "reliveRes2": 4, 
+   "attackSpeed": 1.92, 
+   "reliveTime": 3, 
+   "warriorType": 3
+  }
+ ], 
+ "11109004": [
+  {
+   "consume": 109, 
+   "skillDisp": [
+    214001, 
+    214002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11109001", 
+   "reliveRes1": 54, 
+   "unitType": 2, 
+   "defense": 9, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11109001", 
+   "id": 11109004, 
+   "costRes2": 0, 
+   "power": 18, 
+   "advantage": [
+    11107001
+   ], 
+   "activityPoint": 15, 
+   "attack": 279, 
+   "produceTime": 13, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11109001", 
+   "type": 9, 
+   "costRes1": 77, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.69, 
+   "costRes7": 0, 
+   "uiOrder": 5, 
+   "hp": 1289, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11108001
+   ], 
+   "info": "soldier_info_11109001", 
+   "name": "soldier_name_11109001", 
+   "level": 4, 
+   "xGridCount": 2, 
+   "bigPic": "11109001", 
+   "reliveRes2": 6, 
+   "attackSpeed": 2.17, 
+   "reliveTime": 4, 
+   "warriorType": 3
+  }
+ ], 
+ "11109005": [
+  {
+   "consume": 168, 
+   "skillDisp": [
+    214001, 
+    214002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11109001", 
+   "reliveRes1": 64, 
+   "unitType": 2, 
+   "defense": 11, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11109001", 
+   "id": 11109005, 
+   "costRes2": 0, 
+   "power": 28, 
+   "advantage": [
+    11107001
+   ], 
+   "activityPoint": 25, 
+   "attack": 357, 
+   "produceTime": 15, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11109001", 
+   "type": 9, 
+   "costRes1": 100, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.72, 
+   "costRes7": 0, 
+   "uiOrder": 5, 
+   "hp": 1953, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11108001
+   ], 
+   "info": "soldier_info_11109001", 
+   "name": "soldier_name_11109001", 
+   "level": 5, 
+   "xGridCount": 2, 
+   "bigPic": "11109001", 
+   "reliveRes2": 8, 
+   "attackSpeed": 2.46, 
+   "reliveTime": 4, 
+   "warriorType": 3
+  }
+ ], 
+ "11109006": [
+  {
+   "consume": 258, 
+   "skillDisp": [
+    214001, 
+    214002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11109001", 
+   "reliveRes1": 74, 
+   "unitType": 2, 
+   "defense": 12, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11109001", 
+   "id": 11109006, 
+   "costRes2": 0, 
+   "power": 43, 
+   "advantage": [
+    11107001
+   ], 
+   "activityPoint": 45, 
+   "attack": 458, 
+   "produceTime": 18, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11109001", 
+   "type": 9, 
+   "costRes1": 130, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.75, 
+   "costRes7": 0, 
+   "uiOrder": 5, 
+   "hp": 2960, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11108001
+   ], 
+   "info": "soldier_info_11109001", 
+   "name": "soldier_name_11109001", 
+   "level": 6, 
+   "xGridCount": 2, 
+   "bigPic": "11109001", 
+   "reliveRes2": 10, 
+   "attackSpeed": 2.79, 
+   "reliveTime": 5, 
+   "warriorType": 3
+  }
+ ], 
+ "11109007": [
+  {
+   "consume": 397, 
+   "skillDisp": [
+    214001, 
+    214002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11109001", 
+   "reliveRes1": 72, 
+   "unitType": 2, 
+   "defense": 14, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11109001", 
+   "id": 11109007, 
+   "costRes2": 0, 
+   "power": 66, 
+   "advantage": [
+    11107001
+   ], 
+   "activityPoint": 65, 
+   "attack": 590, 
+   "produceTime": 21, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11109001", 
+   "type": 9, 
+   "costRes1": 169, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.78, 
+   "costRes7": 8, 
+   "uiOrder": 5, 
+   "hp": 4484, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11108001
+   ], 
+   "info": "soldier_info_11109001", 
+   "name": "soldier_name_11109001", 
+   "level": 7, 
+   "xGridCount": 2, 
+   "bigPic": "11109001", 
+   "reliveRes2": 10, 
+   "attackSpeed": 3.16, 
+   "reliveTime": 5, 
+   "warriorType": 3
+  }
+ ], 
+ "11109008": [
+  {
+   "consume": 611, 
+   "skillDisp": [
+    214001, 
+    214002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11109001", 
+   "reliveRes1": 76, 
+   "unitType": 2, 
+   "defense": 16, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11109001", 
+   "id": 11109008, 
+   "costRes2": 0, 
+   "power": 102, 
+   "advantage": [
+    11107001
+   ], 
+   "activityPoint": 100, 
+   "attack": 759, 
+   "produceTime": 24, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11109001", 
+   "type": 9, 
+   "costRes1": 220, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.81, 
+   "costRes7": 11, 
+   "uiOrder": 5, 
+   "hp": 6794, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11108001
+   ], 
+   "info": "soldier_info_11109001", 
+   "name": "soldier_name_11109001", 
+   "level": 8, 
+   "xGridCount": 2, 
+   "bigPic": "11109001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 3.58, 
+   "reliveTime": 6, 
+   "warriorType": 3
+  }
+ ], 
+ "11109009": [
+  {
+   "consume": 940, 
+   "skillDisp": [
+    214001, 
+    214002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11109001", 
+   "reliveRes1": 76, 
+   "unitType": 2, 
+   "defense": 19, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11109001", 
+   "id": 11109009, 
+   "costRes2": 0, 
+   "power": 157, 
+   "advantage": [
+    11107001
+   ], 
+   "activityPoint": 140, 
+   "attack": 978, 
+   "produceTime": 26, 
+   "costRes8": 5, 
+   "desc": "soldier_desc_11109001", 
+   "type": 9, 
+   "costRes1": 286, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.84, 
+   "costRes7": 14, 
+   "uiOrder": 5, 
+   "hp": 10295, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11108001
+   ], 
+   "info": "soldier_info_11109001", 
+   "name": "soldier_name_11109001", 
+   "level": 9, 
+   "xGridCount": 2, 
+   "bigPic": "11109001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 4.06, 
+   "reliveTime": 7, 
+   "warriorType": 3
+  }
+ ], 
+ "11109010": [
+  {
+   "consume": 1446, 
+   "skillDisp": [
+    214001, 
+    214002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11109001", 
+   "reliveRes1": 80, 
+   "unitType": 2, 
+   "defense": 21, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11109001", 
+   "id": 11109010, 
+   "costRes2": 0, 
+   "power": 241, 
+   "advantage": [
+    11107001
+   ], 
+   "activityPoint": 195, 
+   "attack": 1260, 
+   "produceTime": 27, 
+   "costRes8": 7, 
+   "desc": "soldier_desc_11109001", 
+   "type": 9, 
+   "costRes1": 371, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.87, 
+   "costRes7": 18, 
+   "uiOrder": 5, 
+   "hp": 15598, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11108001
+   ], 
+   "info": "soldier_info_11109001", 
+   "name": "soldier_name_11109001", 
+   "level": 10, 
+   "xGridCount": 2, 
+   "bigPic": "11109001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 4.61, 
+   "reliveTime": 7, 
+   "warriorType": 3
+  }
+ ], 
+ "11109011": [
+  {
+   "consume": 2225, 
+   "skillDisp": [
+    214001, 
+    214002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11109001", 
+   "reliveRes1": 90, 
+   "unitType": 2, 
+   "defense": 24, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11109001", 
+   "id": 11109011, 
+   "costRes2": 0, 
+   "power": 371, 
+   "advantage": [
+    11107001
+   ], 
+   "activityPoint": 290, 
+   "attack": 1624, 
+   "produceTime": 29, 
+   "costRes8": 8, 
+   "desc": "soldier_desc_11109001", 
+   "type": 9, 
+   "costRes1": 483, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.9, 
+   "costRes7": 23, 
+   "uiOrder": 5, 
+   "hp": 23633, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11108001
+   ], 
+   "info": "soldier_info_11109001", 
+   "name": "soldier_name_11109001", 
+   "level": 11, 
+   "xGridCount": 2, 
+   "bigPic": "11109001", 
+   "reliveRes2": 14, 
+   "attackSpeed": 5.24, 
+   "reliveTime": 8, 
+   "warriorType": 3
+  }
+ ], 
+ "11109012": [
+  {
+   "consume": 3423, 
+   "skillDisp": [
+    214001, 
+    214002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11109001", 
+   "reliveRes1": 96, 
+   "unitType": 2, 
+   "defense": 28, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11109001", 
+   "id": 11109012, 
+   "costRes2": 0, 
+   "power": 571, 
+   "advantage": [
+    11107001
+   ], 
+   "activityPoint": 435, 
+   "attack": 2097, 
+   "produceTime": 30, 
+   "costRes8": 11, 
+   "desc": "soldier_desc_11109001", 
+   "type": 9, 
+   "costRes1": 627, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.93, 
+   "costRes7": 30, 
+   "uiOrder": 5, 
+   "hp": 35808, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11108001
+   ], 
+   "info": "soldier_info_11109001", 
+   "name": "soldier_name_11109001", 
+   "level": 12, 
+   "xGridCount": 2, 
+   "bigPic": "11109001", 
+   "reliveRes2": 14, 
+   "attackSpeed": 5.95, 
+   "reliveTime": 8, 
+   "warriorType": 3
+  }
+ ], 
+ "11215002": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11215002", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 8, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11215002, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 76, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 936, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11215002", 
+   "level": 2, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 1
+  }
+ ], 
+ "11215003": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11215002", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11215003, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 115, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 1419, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11215003", 
+   "level": 3, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 1
+  }
+ ], 
+ "11215005": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11215002", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 13, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11215005, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 264, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 3257, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11215005", 
+   "level": 5, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 1
+  }
+ ], 
+ "11215006": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11215002", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 15, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11215006, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 399, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 4935, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11215006", 
+   "level": 6, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 1
+  }
+ ], 
+ "11108001": [
+  {
+   "consume": 30, 
+   "skillDisp": [
+    212001, 
+    212002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11108001", 
+   "reliveRes1": 10, 
+   "unitType": 2, 
+   "defense": 8, 
+   "reliveRes7": 0, 
+   "carry": 1, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11108001", 
+   "id": 11108001, 
+   "costRes2": 6, 
+   "power": 5, 
+   "advantage": [
+    11109001
+   ], 
+   "activityPoint": 3, 
+   "attack": 66, 
+   "produceTime": 6, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11108001", 
+   "type": 8, 
+   "costRes1": 29, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.7, 
+   "costRes7": 0, 
+   "uiOrder": 2, 
+   "hp": 742, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11107001
+   ], 
+   "info": "soldier_info_11108001", 
+   "name": "soldier_name_11108001", 
+   "level": 1, 
+   "xGridCount": 2, 
+   "bigPic": "11108001", 
+   "reliveRes2": 2, 
+   "attackSpeed": 1.29, 
+   "reliveTime": 2, 
+   "warriorType": 1
+  }
+ ], 
+ "11108002": [
+  {
+   "consume": 46, 
+   "skillDisp": [
+    212001, 
+    212002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11108001", 
+   "reliveRes1": 24, 
+   "unitType": 2, 
+   "defense": 9, 
+   "reliveRes7": 0, 
+   "carry": 2, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11108001", 
+   "id": 11108002, 
+   "costRes2": 10, 
+   "power": 8, 
+   "advantage": [
+    11109001
+   ], 
+   "activityPoint": 5, 
+   "attack": 86, 
+   "produceTime": 8, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11108001", 
+   "type": 8, 
+   "costRes1": 38, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.72, 
+   "costRes7": 0, 
+   "uiOrder": 2, 
+   "hp": 1124, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11107001
+   ], 
+   "info": "soldier_info_11108001", 
+   "name": "soldier_name_11108001", 
+   "level": 2, 
+   "xGridCount": 2, 
+   "bigPic": "11108001", 
+   "reliveRes2": 4, 
+   "attackSpeed": 1.47, 
+   "reliveTime": 2, 
+   "warriorType": 1
+  }
+ ], 
+ "11108003": [
+  {
+   "consume": 71, 
+   "skillDisp": [
+    212001, 
+    212002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11108001", 
+   "reliveRes1": 40, 
+   "unitType": 2, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11108001", 
+   "id": 11108003, 
+   "costRes2": 17, 
+   "power": 12, 
+   "advantage": [
+    11109001
+   ], 
+   "activityPoint": 10, 
+   "attack": 112, 
+   "produceTime": 11, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11108001", 
+   "type": 8, 
+   "costRes1": 49, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.74, 
+   "costRes7": 0, 
+   "uiOrder": 2, 
+   "hp": 1703, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11107001
+   ], 
+   "info": "soldier_info_11108001", 
+   "name": "soldier_name_11108001", 
+   "level": 3, 
+   "xGridCount": 2, 
+   "bigPic": "11108001", 
+   "reliveRes2": 4, 
+   "attackSpeed": 1.67, 
+   "reliveTime": 3, 
+   "warriorType": 1
+  }
+ ], 
+ "11108004": [
+  {
+   "consume": 109, 
+   "skillDisp": [
+    212001, 
+    212002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11108001", 
+   "reliveRes1": 54, 
+   "unitType": 2, 
+   "defense": 12, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11108001", 
+   "id": 11108004, 
+   "costRes2": 29, 
+   "power": 18, 
+   "advantage": [
+    11109001
+   ], 
+   "activityPoint": 15, 
+   "attack": 145, 
+   "produceTime": 13, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11108001", 
+   "type": 8, 
+   "costRes1": 64, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.76, 
+   "costRes7": 0, 
+   "uiOrder": 2, 
+   "hp": 2580, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11107001
+   ], 
+   "info": "soldier_info_11108001", 
+   "name": "soldier_name_11108001", 
+   "level": 4, 
+   "xGridCount": 2, 
+   "bigPic": "11108001", 
+   "reliveRes2": 6, 
+   "attackSpeed": 1.9, 
+   "reliveTime": 4, 
+   "warriorType": 1
+  }
+ ], 
+ "11108005": [
+  {
+   "consume": 168, 
+   "skillDisp": [
+    212001, 
+    212002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11108001", 
+   "reliveRes1": 64, 
+   "unitType": 2, 
+   "defense": 13, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11108001", 
+   "id": 11108005, 
+   "costRes2": 49, 
+   "power": 28, 
+   "advantage": [
+    11109001
+   ], 
+   "activityPoint": 25, 
+   "attack": 188, 
+   "produceTime": 15, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11108001", 
+   "type": 8, 
+   "costRes1": 83, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.78, 
+   "costRes7": 0, 
+   "uiOrder": 2, 
+   "hp": 3908, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11107001
+   ], 
+   "info": "soldier_info_11108001", 
+   "name": "soldier_name_11108001", 
+   "level": 5, 
+   "xGridCount": 2, 
+   "bigPic": "11108001", 
+   "reliveRes2": 8, 
+   "attackSpeed": 2.16, 
+   "reliveTime": 4, 
+   "warriorType": 1
+  }
+ ], 
+ "11108006": [
+  {
+   "consume": 258, 
+   "skillDisp": [
+    212001, 
+    212002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11108001", 
+   "reliveRes1": 74, 
+   "unitType": 2, 
+   "defense": 15, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11108001", 
+   "id": 11108006, 
+   "costRes2": 83, 
+   "power": 43, 
+   "advantage": [
+    11109001
+   ], 
+   "activityPoint": 45, 
+   "attack": 244, 
+   "produceTime": 18, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11108001", 
+   "type": 8, 
+   "costRes1": 108, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.8, 
+   "costRes7": 0, 
+   "uiOrder": 2, 
+   "hp": 5922, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11107001
+   ], 
+   "info": "soldier_info_11108001", 
+   "name": "soldier_name_11108001", 
+   "level": 6, 
+   "xGridCount": 2, 
+   "bigPic": "11108001", 
+   "reliveRes2": 10, 
+   "attackSpeed": 2.46, 
+   "reliveTime": 5, 
+   "warriorType": 1
+  }
+ ], 
+ "11108007": [
+  {
+   "consume": 397, 
+   "skillDisp": [
+    212001, 
+    212002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11108001", 
+   "reliveRes1": 72, 
+   "unitType": 2, 
+   "defense": 18, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11108001", 
+   "id": 11108007, 
+   "costRes2": 141, 
+   "power": 66, 
+   "advantage": [
+    11109001
+   ], 
+   "activityPoint": 65, 
+   "attack": 317, 
+   "produceTime": 21, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11108001", 
+   "type": 8, 
+   "costRes1": 141, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.82, 
+   "costRes7": 8, 
+   "uiOrder": 2, 
+   "hp": 8972, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11107001
+   ], 
+   "info": "soldier_info_11108001", 
+   "name": "soldier_name_11108001", 
+   "level": 7, 
+   "xGridCount": 2, 
+   "bigPic": "11108001", 
+   "reliveRes2": 10, 
+   "attackSpeed": 2.8, 
+   "reliveTime": 5, 
+   "warriorType": 1
+  }
+ ], 
+ "11108008": [
+  {
+   "consume": 611, 
+   "skillDisp": [
+    212001, 
+    212002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11108001", 
+   "reliveRes1": 76, 
+   "unitType": 2, 
+   "defense": 20, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11108001", 
+   "id": 11108008, 
+   "costRes2": 239, 
+   "power": 102, 
+   "advantage": [
+    11109001
+   ], 
+   "activityPoint": 100, 
+   "attack": 411, 
+   "produceTime": 24, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11108001", 
+   "type": 8, 
+   "costRes1": 183, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.84, 
+   "costRes7": 11, 
+   "uiOrder": 2, 
+   "hp": 13594, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11107001
+   ], 
+   "info": "soldier_info_11108001", 
+   "name": "soldier_name_11108001", 
+   "level": 8, 
+   "xGridCount": 2, 
+   "bigPic": "11108001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 3.19, 
+   "reliveTime": 6, 
+   "warriorType": 1
+  }
+ ], 
+ "11108009": [
+  {
+   "consume": 940, 
+   "skillDisp": [
+    212001, 
+    212002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11108001", 
+   "reliveRes1": 76, 
+   "unitType": 2, 
+   "defense": 23, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11108001", 
+   "id": 11108009, 
+   "costRes2": 407, 
+   "power": 157, 
+   "advantage": [
+    11109001
+   ], 
+   "activityPoint": 140, 
+   "attack": 533, 
+   "produceTime": 26, 
+   "costRes8": 5, 
+   "desc": "soldier_desc_11108001", 
+   "type": 8, 
+   "costRes1": 238, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.86, 
+   "costRes7": 14, 
+   "uiOrder": 2, 
+   "hp": 20597, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11107001
+   ], 
+   "info": "soldier_info_11108001", 
+   "name": "soldier_name_11108001", 
+   "level": 9, 
+   "xGridCount": 2, 
+   "bigPic": "11108001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 3.64, 
+   "reliveTime": 7, 
+   "warriorType": 1
+  }
+ ], 
+ "11108010": [
+  {
+   "consume": 1446, 
+   "skillDisp": [
+    212001, 
+    212002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11108001", 
+   "reliveRes1": 80, 
+   "unitType": 2, 
+   "defense": 27, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11108001", 
+   "id": 11108010, 
+   "costRes2": 692, 
+   "power": 241, 
+   "advantage": [
+    11109001
+   ], 
+   "activityPoint": 195, 
+   "attack": 693, 
+   "produceTime": 27, 
+   "costRes8": 7, 
+   "desc": "soldier_desc_11108001", 
+   "type": 8, 
+   "costRes1": 309, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.88, 
+   "costRes7": 18, 
+   "uiOrder": 2, 
+   "hp": 31208, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11107001
+   ], 
+   "info": "soldier_info_11108001", 
+   "name": "soldier_name_11108001", 
+   "level": 10, 
+   "xGridCount": 2, 
+   "bigPic": "11108001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 4.15, 
+   "reliveTime": 7, 
+   "warriorType": 1
+  }
+ ], 
+ "11108011": [
+  {
+   "consume": 2225, 
+   "skillDisp": [
+    212001, 
+    212002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11108001", 
+   "reliveRes1": 90, 
+   "unitType": 2, 
+   "defense": 31, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11108001", 
+   "id": 11108011, 
+   "costRes2": 1176, 
+   "power": 371, 
+   "advantage": [
+    11109001
+   ], 
+   "activityPoint": 290, 
+   "attack": 900, 
+   "produceTime": 29, 
+   "costRes8": 8, 
+   "desc": "soldier_desc_11108001", 
+   "type": 8, 
+   "costRes1": 402, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.9, 
+   "costRes7": 23, 
+   "uiOrder": 2, 
+   "hp": 47284, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11107001
+   ], 
+   "info": "soldier_info_11108001", 
+   "name": "soldier_name_11108001", 
+   "level": 11, 
+   "xGridCount": 2, 
+   "bigPic": "11108001", 
+   "reliveRes2": 14, 
+   "attackSpeed": 4.73, 
+   "reliveTime": 8, 
+   "warriorType": 1
+  }
+ ], 
+ "11108012": [
+  {
+   "consume": 3423, 
+   "skillDisp": [
+    212001, 
+    212002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11108001", 
+   "reliveRes1": 96, 
+   "unitType": 2, 
+   "defense": 35, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11108001", 
+   "id": 11108012, 
+   "costRes2": 1999, 
+   "power": 571, 
+   "advantage": [
+    11109001
+   ], 
+   "activityPoint": 435, 
+   "attack": 1171, 
+   "produceTime": 30, 
+   "costRes8": 11, 
+   "desc": "soldier_desc_11108001", 
+   "type": 8, 
+   "costRes1": 523, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.92, 
+   "costRes7": 30, 
+   "uiOrder": 2, 
+   "hp": 71643, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11107001
+   ], 
+   "info": "soldier_info_11108001", 
+   "name": "soldier_name_11108001", 
+   "level": 12, 
+   "xGridCount": 2, 
+   "bigPic": "11108001", 
+   "reliveRes2": 14, 
+   "attackSpeed": 5.39, 
+   "reliveTime": 8, 
+   "warriorType": 1
+  }
+ ], 
+ "11214005": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11214005", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 102, 
+   "reliveRes7": 1050, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11214005, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 276750, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 1709852, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11214005", 
+   "level": 5, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 2
+  }
+ ], 
+ "11107001": [
+  {
+   "consume": 30, 
+   "skillDisp": [
+    213001, 
+    213002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11107001", 
+   "reliveRes1": 10, 
+   "unitType": 2, 
+   "defense": 7, 
+   "reliveRes7": 0, 
+   "carry": 1, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11107001", 
+   "id": 11107001, 
+   "costRes2": 6, 
+   "power": 5, 
+   "advantage": [
+    11108001
+   ], 
+   "activityPoint": 3, 
+   "attack": 82, 
+   "produceTime": 6, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11107001", 
+   "type": 7, 
+   "costRes1": 29, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.65, 
+   "costRes7": 0, 
+   "uiOrder": 3, 
+   "hp": 457, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11109001
+   ], 
+   "info": "soldier_info_11107001", 
+   "name": "soldier_name_11107001", 
+   "level": 1, 
+   "xGridCount": 2, 
+   "bigPic": "11107001", 
+   "reliveRes2": 2, 
+   "attackSpeed": 1.38, 
+   "reliveTime": 2, 
+   "warriorType": 2
+  }
+ ], 
+ "11107002": [
+  {
+   "consume": 46, 
+   "skillDisp": [
+    213001, 
+    213002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11107001", 
+   "reliveRes1": 24, 
+   "unitType": 2, 
+   "defense": 8, 
+   "reliveRes7": 0, 
+   "carry": 2, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11107001", 
+   "id": 11107002, 
+   "costRes2": 10, 
+   "power": 8, 
+   "advantage": [
+    11108001
+   ], 
+   "activityPoint": 5, 
+   "attack": 106, 
+   "produceTime": 8, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11107001", 
+   "type": 7, 
+   "costRes1": 38, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.675, 
+   "costRes7": 0, 
+   "uiOrder": 3, 
+   "hp": 693, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11109001
+   ], 
+   "info": "soldier_info_11107001", 
+   "name": "soldier_name_11107001", 
+   "level": 2, 
+   "xGridCount": 2, 
+   "bigPic": "11107001", 
+   "reliveRes2": 4, 
+   "attackSpeed": 1.56, 
+   "reliveTime": 2, 
+   "warriorType": 2
+  }
+ ], 
+ "11107003": [
+  {
+   "consume": 71, 
+   "skillDisp": [
+    213001, 
+    213002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11107001", 
+   "reliveRes1": 40, 
+   "unitType": 2, 
+   "defense": 9, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11107001", 
+   "id": 11107003, 
+   "costRes2": 17, 
+   "power": 12, 
+   "advantage": [
+    11108001
+   ], 
+   "activityPoint": 10, 
+   "attack": 137, 
+   "produceTime": 11, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11107001", 
+   "type": 7, 
+   "costRes1": 49, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.7, 
+   "costRes7": 0, 
+   "uiOrder": 3, 
+   "hp": 1049, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11109001
+   ], 
+   "info": "soldier_info_11107001", 
+   "name": "soldier_name_11107001", 
+   "level": 3, 
+   "xGridCount": 2, 
+   "bigPic": "11107001", 
+   "reliveRes2": 4, 
+   "attackSpeed": 1.77, 
+   "reliveTime": 3, 
+   "warriorType": 2
+  }
+ ], 
+ "11107004": [
+  {
+   "consume": 109, 
+   "skillDisp": [
+    213001, 
+    213002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11107001", 
+   "reliveRes1": 54, 
+   "unitType": 2, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11107001", 
+   "id": 11107004, 
+   "costRes2": 29, 
+   "power": 18, 
+   "advantage": [
+    11108001
+   ], 
+   "activityPoint": 15, 
+   "attack": 177, 
+   "produceTime": 13, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11107001", 
+   "type": 7, 
+   "costRes1": 64, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.725, 
+   "costRes7": 0, 
+   "uiOrder": 3, 
+   "hp": 1590, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11109001
+   ], 
+   "info": "soldier_info_11107001", 
+   "name": "soldier_name_11107001", 
+   "level": 4, 
+   "xGridCount": 2, 
+   "bigPic": "11107001", 
+   "reliveRes2": 6, 
+   "attackSpeed": 2.01, 
+   "reliveTime": 4, 
+   "warriorType": 2
+  }
+ ], 
+ "11107005": [
+  {
+   "consume": 168, 
+   "skillDisp": [
+    213001, 
+    213002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11107001", 
+   "reliveRes1": 64, 
+   "unitType": 2, 
+   "defense": 11, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11107001", 
+   "id": 11107005, 
+   "costRes2": 49, 
+   "power": 28, 
+   "advantage": [
+    11108001
+   ], 
+   "activityPoint": 25, 
+   "attack": 229, 
+   "produceTime": 15, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11107001", 
+   "type": 7, 
+   "costRes1": 83, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.75, 
+   "costRes7": 0, 
+   "uiOrder": 3, 
+   "hp": 2409, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11109001
+   ], 
+   "info": "soldier_info_11107001", 
+   "name": "soldier_name_11107001", 
+   "level": 5, 
+   "xGridCount": 2, 
+   "bigPic": "11107001", 
+   "reliveRes2": 8, 
+   "attackSpeed": 2.28, 
+   "reliveTime": 4, 
+   "warriorType": 2
+  }
+ ], 
+ "11107006": [
+  {
+   "consume": 258, 
+   "skillDisp": [
+    213001, 
+    213002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11107001", 
+   "reliveRes1": 74, 
+   "unitType": 2, 
+   "defense": 13, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11107001", 
+   "id": 11107006, 
+   "costRes2": 83, 
+   "power": 43, 
+   "advantage": [
+    11108001
+   ], 
+   "activityPoint": 45, 
+   "attack": 295, 
+   "produceTime": 18, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11107001", 
+   "type": 7, 
+   "costRes1": 108, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.775, 
+   "costRes7": 0, 
+   "uiOrder": 3, 
+   "hp": 3650, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11109001
+   ], 
+   "info": "soldier_info_11107001", 
+   "name": "soldier_name_11107001", 
+   "level": 6, 
+   "xGridCount": 2, 
+   "bigPic": "11107001", 
+   "reliveRes2": 10, 
+   "attackSpeed": 2.59, 
+   "reliveTime": 5, 
+   "warriorType": 2
+  }
+ ], 
+ "11107007": [
+  {
+   "consume": 397, 
+   "skillDisp": [
+    213001, 
+    213002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11107001", 
+   "reliveRes1": 72, 
+   "unitType": 2, 
+   "defense": 15, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11107001", 
+   "id": 11107007, 
+   "costRes2": 141, 
+   "power": 66, 
+   "advantage": [
+    11108001
+   ], 
+   "activityPoint": 65, 
+   "attack": 381, 
+   "produceTime": 21, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11107001", 
+   "type": 7, 
+   "costRes1": 141, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.8, 
+   "costRes7": 8, 
+   "uiOrder": 3, 
+   "hp": 5530, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11109001
+   ], 
+   "info": "soldier_info_11107001", 
+   "name": "soldier_name_11107001", 
+   "level": 7, 
+   "xGridCount": 2, 
+   "bigPic": "11107001", 
+   "reliveRes2": 10, 
+   "attackSpeed": 2.94, 
+   "reliveTime": 5, 
+   "warriorType": 2
+  }
+ ], 
+ "11107008": [
+  {
+   "consume": 611, 
+   "skillDisp": [
+    213001, 
+    213002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11107001", 
+   "reliveRes1": 76, 
+   "unitType": 2, 
+   "defense": 17, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11107001", 
+   "id": 11107008, 
+   "costRes2": 239, 
+   "power": 102, 
+   "advantage": [
+    11108001
+   ], 
+   "activityPoint": 100, 
+   "attack": 493, 
+   "produceTime": 24, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11107001", 
+   "type": 7, 
+   "costRes1": 183, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.825, 
+   "costRes7": 11, 
+   "uiOrder": 3, 
+   "hp": 8379, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11109001
+   ], 
+   "info": "soldier_info_11107001", 
+   "name": "soldier_name_11107001", 
+   "level": 8, 
+   "xGridCount": 2, 
+   "bigPic": "11107001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 3.34, 
+   "reliveTime": 6, 
+   "warriorType": 2
+  }
+ ], 
+ "11107009": [
+  {
+   "consume": 940, 
+   "skillDisp": [
+    213001, 
+    213002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11107001", 
+   "reliveRes1": 76, 
+   "unitType": 2, 
+   "defense": 20, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11107001", 
+   "id": 11107009, 
+   "costRes2": 407, 
+   "power": 157, 
+   "advantage": [
+    11108001
+   ], 
+   "activityPoint": 140, 
+   "attack": 637, 
+   "produceTime": 26, 
+   "costRes8": 5, 
+   "desc": "soldier_desc_11107001", 
+   "type": 7, 
+   "costRes1": 238, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.85, 
+   "costRes7": 14, 
+   "uiOrder": 3, 
+   "hp": 12695, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11109001
+   ], 
+   "info": "soldier_info_11107001", 
+   "name": "soldier_name_11107001", 
+   "level": 9, 
+   "xGridCount": 2, 
+   "bigPic": "11107001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 3.8, 
+   "reliveTime": 7, 
+   "warriorType": 2
+  }
+ ], 
+ "11107010": [
+  {
+   "consume": 1446, 
+   "skillDisp": [
+    213001, 
+    213002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11107001", 
+   "reliveRes1": 80, 
+   "unitType": 2, 
+   "defense": 23, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11107001", 
+   "id": 11107010, 
+   "costRes2": 692, 
+   "power": 241, 
+   "advantage": [
+    11108001
+   ], 
+   "activityPoint": 195, 
+   "attack": 825, 
+   "produceTime": 27, 
+   "costRes8": 7, 
+   "desc": "soldier_desc_11107001", 
+   "type": 7, 
+   "costRes1": 309, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.875, 
+   "costRes7": 18, 
+   "uiOrder": 3, 
+   "hp": 19235, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11109001
+   ], 
+   "info": "soldier_info_11107001", 
+   "name": "soldier_name_11107001", 
+   "level": 10, 
+   "xGridCount": 2, 
+   "bigPic": "11107001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 4.32, 
+   "reliveTime": 7, 
+   "warriorType": 2
+  }
+ ], 
+ "11107011": [
+  {
+   "consume": 2225, 
+   "skillDisp": [
+    213001, 
+    213002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11107001", 
+   "reliveRes1": 90, 
+   "unitType": 2, 
+   "defense": 26, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11107001", 
+   "id": 11107011, 
+   "costRes2": 1176, 
+   "power": 371, 
+   "advantage": [
+    11108001
+   ], 
+   "activityPoint": 290, 
+   "attack": 1068, 
+   "produceTime": 29, 
+   "costRes8": 8, 
+   "desc": "soldier_desc_11107001", 
+   "type": 7, 
+   "costRes1": 402, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.9, 
+   "costRes7": 23, 
+   "uiOrder": 3, 
+   "hp": 29144, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11109001
+   ], 
+   "info": "soldier_info_11107001", 
+   "name": "soldier_name_11107001", 
+   "level": 11, 
+   "xGridCount": 2, 
+   "bigPic": "11107001", 
+   "reliveRes2": 14, 
+   "attackSpeed": 4.92, 
+   "reliveTime": 8, 
+   "warriorType": 2
+  }
+ ], 
+ "11107012": [
+  {
+   "consume": 3423, 
+   "skillDisp": [
+    213001, 
+    213002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11107001", 
+   "reliveRes1": 96, 
+   "unitType": 2, 
+   "defense": 30, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11107001", 
+   "id": 11107012, 
+   "costRes2": 1999, 
+   "power": 571, 
+   "advantage": [
+    11108001
+   ], 
+   "activityPoint": 435, 
+   "attack": 1383, 
+   "produceTime": 30, 
+   "costRes8": 11, 
+   "desc": "soldier_desc_11107001", 
+   "type": 7, 
+   "costRes1": 523, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.925, 
+   "costRes7": 30, 
+   "uiOrder": 3, 
+   "hp": 44157, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11109001
+   ], 
+   "info": "soldier_info_11107001", 
+   "name": "soldier_name_11107001", 
+   "level": 12, 
+   "xGridCount": 2, 
+   "bigPic": "11107001", 
+   "reliveRes2": 14, 
+   "attackSpeed": 5.6, 
+   "reliveTime": 8, 
+   "warriorType": 2
+  }
+ ], 
+ "11213006": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11213006", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 13, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11213006, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 559, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 3455, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11213006", 
+   "level": 6, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 2
+  }
+ ], 
+ "11106001": [
+  {
+   "consume": 30, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11106001", 
+   "reliveRes1": 10, 
+   "unitType": 1, 
+   "defense": 7, 
+   "reliveRes7": 0, 
+   "carry": 1, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11106001", 
+   "id": 11106001, 
+   "costRes2": 5, 
+   "power": 5, 
+   "advantage": [
+    11105001
+   ], 
+   "activityPoint": 3, 
+   "attack": 86, 
+   "produceTime": 6, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11106001", 
+   "type": 6, 
+   "costRes1": 37, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.65, 
+   "costRes7": 0, 
+   "uiOrder": 6, 
+   "hp": 476, 
+   "attackArray": [
+    3, 
+    2, 
+    1
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11106001", 
+   "name": "soldier_name_11106001", 
+   "level": 1, 
+   "xGridCount": 1, 
+   "bigPic": "11106001", 
+   "reliveRes2": 2, 
+   "attackSpeed": 1.38, 
+   "reliveTime": 2, 
+   "warriorType": 2
+  }
+ ], 
+ "11106002": [
+  {
+   "consume": 46, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11106001", 
+   "reliveRes1": 24, 
+   "unitType": 1, 
+   "defense": 8, 
+   "reliveRes7": 0, 
+   "carry": 2, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11106001", 
+   "id": 11106002, 
+   "costRes2": 8, 
+   "power": 8, 
+   "advantage": [
+    11105001
+   ], 
+   "activityPoint": 5, 
+   "attack": 110, 
+   "produceTime": 8, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11106001", 
+   "type": 6, 
+   "costRes1": 49, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.675, 
+   "costRes7": 0, 
+   "uiOrder": 6, 
+   "hp": 721, 
+   "attackArray": [
+    3, 
+    2, 
+    1
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11106001", 
+   "name": "soldier_name_11106001", 
+   "level": 2, 
+   "xGridCount": 1, 
+   "bigPic": "11106001", 
+   "reliveRes2": 4, 
+   "attackSpeed": 1.57, 
+   "reliveTime": 2, 
+   "warriorType": 2
+  }
+ ], 
+ "11106003": [
+  {
+   "consume": 71, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11106001", 
+   "reliveRes1": 40, 
+   "unitType": 1, 
+   "defense": 9, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11106001", 
+   "id": 11106003, 
+   "costRes2": 13, 
+   "power": 12, 
+   "advantage": [
+    11105001
+   ], 
+   "activityPoint": 10, 
+   "attack": 142, 
+   "produceTime": 11, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11106001", 
+   "type": 6, 
+   "costRes1": 63, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.7, 
+   "costRes7": 0, 
+   "uiOrder": 6, 
+   "hp": 1093, 
+   "attackArray": [
+    3, 
+    2, 
+    1
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11106001", 
+   "name": "soldier_name_11106001", 
+   "level": 3, 
+   "xGridCount": 1, 
+   "bigPic": "11106001", 
+   "reliveRes2": 4, 
+   "attackSpeed": 1.78, 
+   "reliveTime": 3, 
+   "warriorType": 2
+  }
+ ], 
+ "11106004": [
+  {
+   "consume": 109, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11106001", 
+   "reliveRes1": 54, 
+   "unitType": 1, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11106001", 
+   "id": 11106004, 
+   "costRes2": 23, 
+   "power": 18, 
+   "advantage": [
+    11105001
+   ], 
+   "activityPoint": 15, 
+   "attack": 183, 
+   "produceTime": 13, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11106001", 
+   "type": 6, 
+   "costRes1": 82, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.725, 
+   "costRes7": 0, 
+   "uiOrder": 6, 
+   "hp": 1656, 
+   "attackArray": [
+    3, 
+    2, 
+    1
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11106001", 
+   "name": "soldier_name_11106001", 
+   "level": 4, 
+   "xGridCount": 1, 
+   "bigPic": "11106001", 
+   "reliveRes2": 6, 
+   "attackSpeed": 2.02, 
+   "reliveTime": 4, 
+   "warriorType": 2
+  }
+ ], 
+ "11106005": [
+  {
+   "consume": 168, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11106001", 
+   "reliveRes1": 64, 
+   "unitType": 1, 
+   "defense": 12, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11106001", 
+   "id": 11106005, 
+   "costRes2": 39, 
+   "power": 28, 
+   "advantage": [
+    11105001
+   ], 
+   "activityPoint": 25, 
+   "attack": 236, 
+   "produceTime": 15, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11106001", 
+   "type": 6, 
+   "costRes1": 107, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.75, 
+   "costRes7": 0, 
+   "uiOrder": 6, 
+   "hp": 2508, 
+   "attackArray": [
+    3, 
+    2, 
+    1
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11106001", 
+   "name": "soldier_name_11106001", 
+   "level": 5, 
+   "xGridCount": 1, 
+   "bigPic": "11106001", 
+   "reliveRes2": 8, 
+   "attackSpeed": 2.29, 
+   "reliveTime": 4, 
+   "warriorType": 2
+  }
+ ], 
+ "11106006": [
+  {
+   "consume": 258, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11106001", 
+   "reliveRes1": 74, 
+   "unitType": 1, 
+   "defense": 13, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11106001", 
+   "id": 11106006, 
+   "costRes2": 66, 
+   "power": 43, 
+   "advantage": [
+    11105001
+   ], 
+   "activityPoint": 45, 
+   "attack": 305, 
+   "produceTime": 18, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11106001", 
+   "type": 6, 
+   "costRes1": 139, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.775, 
+   "costRes7": 0, 
+   "uiOrder": 6, 
+   "hp": 3801, 
+   "attackArray": [
+    3, 
+    2, 
+    1
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11106001", 
+   "name": "soldier_name_11106001", 
+   "level": 6, 
+   "xGridCount": 1, 
+   "bigPic": "11106001", 
+   "reliveRes2": 10, 
+   "attackSpeed": 2.6, 
+   "reliveTime": 5, 
+   "warriorType": 2
+  }
+ ], 
+ "11106007": [
+  {
+   "consume": 397, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11106001", 
+   "reliveRes1": 72, 
+   "unitType": 1, 
+   "defense": 15, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11106001", 
+   "id": 11106007, 
+   "costRes2": 113, 
+   "power": 66, 
+   "advantage": [
+    11105001
+   ], 
+   "activityPoint": 65, 
+   "attack": 394, 
+   "produceTime": 21, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11106001", 
+   "type": 6, 
+   "costRes1": 180, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.8, 
+   "costRes7": 11, 
+   "uiOrder": 6, 
+   "hp": 5759, 
+   "attackArray": [
+    3, 
+    2, 
+    1
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11106001", 
+   "name": "soldier_name_11106001", 
+   "level": 7, 
+   "xGridCount": 1, 
+   "bigPic": "11106001", 
+   "reliveRes2": 10, 
+   "attackSpeed": 2.96, 
+   "reliveTime": 5, 
+   "warriorType": 2
+  }
+ ], 
+ "11106008": [
+  {
+   "consume": 611, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11106001", 
+   "reliveRes1": 76, 
+   "unitType": 1, 
+   "defense": 18, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11106001", 
+   "id": 11106008, 
+   "costRes2": 191, 
+   "power": 102, 
+   "advantage": [
+    11105001
+   ], 
+   "activityPoint": 100, 
+   "attack": 509, 
+   "produceTime": 24, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11106001", 
+   "type": 6, 
+   "costRes1": 234, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.825, 
+   "costRes7": 14, 
+   "uiOrder": 6, 
+   "hp": 8725, 
+   "attackArray": [
+    3, 
+    2, 
+    1
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11106001", 
+   "name": "soldier_name_11106001", 
+   "level": 8, 
+   "xGridCount": 1, 
+   "bigPic": "11106001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 3.36, 
+   "reliveTime": 6, 
+   "warriorType": 2
+  }
+ ], 
+ "11106009": [
+  {
+   "consume": 940, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11106001", 
+   "reliveRes1": 76, 
+   "unitType": 1, 
+   "defense": 20, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11106001", 
+   "id": 11106009, 
+   "costRes2": 326, 
+   "power": 157, 
+   "advantage": [
+    11105001
+   ], 
+   "activityPoint": 140, 
+   "attack": 659, 
+   "produceTime": 26, 
+   "costRes8": 8, 
+   "desc": "soldier_desc_11106001", 
+   "type": 6, 
+   "costRes1": 305, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.85, 
+   "costRes7": 18, 
+   "uiOrder": 6, 
+   "hp": 13220, 
+   "attackArray": [
+    3, 
+    2, 
+    1
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11106001", 
+   "name": "soldier_name_11106001", 
+   "level": 9, 
+   "xGridCount": 1, 
+   "bigPic": "11106001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 3.82, 
+   "reliveTime": 7, 
+   "warriorType": 2
+  }
+ ], 
+ "11106010": [
+  {
+   "consume": 1446, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11106001", 
+   "reliveRes1": 80, 
+   "unitType": 1, 
+   "defense": 23, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11106001", 
+   "id": 11106010, 
+   "costRes2": 553, 
+   "power": 241, 
+   "advantage": [
+    11105001
+   ], 
+   "activityPoint": 195, 
+   "attack": 851, 
+   "produceTime": 27, 
+   "costRes8": 10, 
+   "desc": "soldier_desc_11106001", 
+   "type": 6, 
+   "costRes1": 396, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.875, 
+   "costRes7": 23, 
+   "uiOrder": 6, 
+   "hp": 20030, 
+   "attackArray": [
+    3, 
+    2, 
+    1
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11106001", 
+   "name": "soldier_name_11106001", 
+   "level": 10, 
+   "xGridCount": 1, 
+   "bigPic": "11106001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 4.35, 
+   "reliveTime": 7, 
+   "warriorType": 2
+  }
+ ], 
+ "11106011": [
+  {
+   "consume": 2225, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11106001", 
+   "reliveRes1": 90, 
+   "unitType": 1, 
+   "defense": 27, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11106001", 
+   "id": 11106011, 
+   "costRes2": 941, 
+   "power": 371, 
+   "advantage": [
+    11105001
+   ], 
+   "activityPoint": 290, 
+   "attack": 1102, 
+   "produceTime": 29, 
+   "costRes8": 14, 
+   "desc": "soldier_desc_11106001", 
+   "type": 6, 
+   "costRes1": 515, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.9, 
+   "costRes7": 30, 
+   "uiOrder": 6, 
+   "hp": 30349, 
+   "attackArray": [
+    3, 
+    2, 
+    1
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11106001", 
+   "name": "soldier_name_11106001", 
+   "level": 11, 
+   "xGridCount": 1, 
+   "bigPic": "11106001", 
+   "reliveRes2": 14, 
+   "attackSpeed": 4.95, 
+   "reliveTime": 8, 
+   "warriorType": 2
+  }
+ ], 
+ "11106012": [
+  {
+   "consume": 3423, 
+   "skillDisp": [
+    207001, 
+    207002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11106001", 
+   "reliveRes1": 96, 
+   "unitType": 1, 
+   "defense": 31, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11106001", 
+   "id": 11106012, 
+   "costRes2": 1599, 
+   "power": 571, 
+   "advantage": [
+    11105001
+   ], 
+   "activityPoint": 435, 
+   "attack": 1429, 
+   "produceTime": 30, 
+   "costRes8": 18, 
+   "desc": "soldier_desc_11106001", 
+   "type": 6, 
+   "costRes1": 669, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 6, 
+   "hit": 0.925, 
+   "costRes7": 39, 
+   "uiOrder": 6, 
+   "hp": 45983, 
+   "attackArray": [
+    3, 
+    2, 
+    1
+   ], 
+   "disadvantage": [
+    11104001
+   ], 
+   "info": "soldier_info_11106001", 
+   "name": "soldier_name_11106001", 
+   "level": 12, 
+   "xGridCount": 1, 
+   "bigPic": "11106001", 
+   "reliveRes2": 14, 
+   "attackSpeed": 5.63, 
+   "reliveTime": 8, 
+   "warriorType": 2
+  }
+ ], 
+ "11212005": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11212005", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 11, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11212005, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 369, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 2280, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11212005", 
+   "level": 5, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 2
+  }
+ ], 
+ "11105001": [
+  {
+   "consume": 30, 
+   "skillDisp": [
+    205001, 
+    205002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11105001", 
+   "reliveRes1": 8, 
+   "unitType": 2, 
+   "defense": 7, 
+   "reliveRes7": 0, 
+   "carry": 1, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11105001", 
+   "id": 11105001, 
+   "costRes2": 11, 
+   "power": 5, 
+   "advantage": [
+    11104001
+   ], 
+   "activityPoint": 3, 
+   "attack": 61, 
+   "produceTime": 5, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11105001", 
+   "type": 5, 
+   "costRes1": 28, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 4, 
+   "hit": 0.7, 
+   "costRes7": 0, 
+   "uiOrder": 4, 
+   "hp": 680, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11106001
+   ], 
+   "info": "soldier_info_11105001", 
+   "name": "soldier_name_11105001", 
+   "level": 1, 
+   "xGridCount": 2, 
+   "bigPic": "11105001", 
+   "reliveRes2": 4, 
+   "attackSpeed": 1.29, 
+   "reliveTime": 1, 
+   "warriorType": 1
+  }
+ ], 
+ "11105002": [
+  {
+   "consume": 46, 
+   "skillDisp": [
+    205001, 
+    205002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11105001", 
+   "reliveRes1": 22, 
+   "unitType": 2, 
+   "defense": 9, 
+   "reliveRes7": 0, 
+   "carry": 2, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11105001", 
+   "id": 11105002, 
+   "costRes2": 18, 
+   "power": 8, 
+   "advantage": [
+    11104001
+   ], 
+   "activityPoint": 5, 
+   "attack": 78, 
+   "produceTime": 8, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11105001", 
+   "type": 5, 
+   "costRes1": 36, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 4, 
+   "hit": 0.72, 
+   "costRes7": 0, 
+   "uiOrder": 4, 
+   "hp": 1030, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11106001
+   ], 
+   "info": "soldier_info_11105001", 
+   "name": "soldier_name_11105001", 
+   "level": 2, 
+   "xGridCount": 2, 
+   "bigPic": "11105001", 
+   "reliveRes2": 4, 
+   "attackSpeed": 1.47, 
+   "reliveTime": 2, 
+   "warriorType": 1
+  }
+ ], 
+ "11105003": [
+  {
+   "consume": 71, 
+   "skillDisp": [
+    205001, 
+    205002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11105001", 
+   "reliveRes1": 34, 
+   "unitType": 2, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11105001", 
+   "id": 11105003, 
+   "costRes2": 30, 
+   "power": 12, 
+   "advantage": [
+    11104001
+   ], 
+   "activityPoint": 10, 
+   "attack": 102, 
+   "produceTime": 10, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11105001", 
+   "type": 5, 
+   "costRes1": 47, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 4, 
+   "hit": 0.74, 
+   "costRes7": 0, 
+   "uiOrder": 4, 
+   "hp": 1561, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11106001
+   ], 
+   "info": "soldier_info_11105001", 
+   "name": "soldier_name_11105001", 
+   "level": 3, 
+   "xGridCount": 2, 
+   "bigPic": "11105001", 
+   "reliveRes2": 8, 
+   "attackSpeed": 1.67, 
+   "reliveTime": 3, 
+   "warriorType": 1
+  }
+ ], 
+ "11105004": [
+  {
+   "consume": 109, 
+   "skillDisp": [
+    205001, 
+    205002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11105001", 
+   "reliveRes1": 44, 
+   "unitType": 2, 
+   "defense": 11, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11105001", 
+   "id": 11105004, 
+   "costRes2": 52, 
+   "power": 18, 
+   "advantage": [
+    11104001
+   ], 
+   "activityPoint": 15, 
+   "attack": 132, 
+   "produceTime": 12, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11105001", 
+   "type": 5, 
+   "costRes1": 62, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 4, 
+   "hit": 0.76, 
+   "costRes7": 0, 
+   "uiOrder": 4, 
+   "hp": 2365, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11106001
+   ], 
+   "info": "soldier_info_11105001", 
+   "name": "soldier_name_11105001", 
+   "level": 4, 
+   "xGridCount": 2, 
+   "bigPic": "11105001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 1.9, 
+   "reliveTime": 3, 
+   "warriorType": 1
+  }
+ ], 
+ "11105005": [
+  {
+   "consume": 168, 
+   "skillDisp": [
+    205001, 
+    205002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11105001", 
+   "reliveRes1": 50, 
+   "unitType": 2, 
+   "defense": 13, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11105001", 
+   "id": 11105005, 
+   "costRes2": 88, 
+   "power": 28, 
+   "advantage": [
+    11104001
+   ], 
+   "activityPoint": 25, 
+   "attack": 172, 
+   "produceTime": 14, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11105001", 
+   "type": 5, 
+   "costRes1": 80, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 4, 
+   "hit": 0.78, 
+   "costRes7": 0, 
+   "uiOrder": 4, 
+   "hp": 3583, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11106001
+   ], 
+   "info": "soldier_info_11105001", 
+   "name": "soldier_name_11105001", 
+   "level": 5, 
+   "xGridCount": 2, 
+   "bigPic": "11105001", 
+   "reliveRes2": 16, 
+   "attackSpeed": 2.16, 
+   "reliveTime": 4, 
+   "warriorType": 1
+  }
+ ], 
+ "11105006": [
+  {
+   "consume": 258, 
+   "skillDisp": [
+    205001, 
+    205002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11105001", 
+   "reliveRes1": 60, 
+   "unitType": 2, 
+   "defense": 15, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11105001", 
+   "id": 11105006, 
+   "costRes2": 149, 
+   "power": 43, 
+   "advantage": [
+    11104001
+   ], 
+   "activityPoint": 45, 
+   "attack": 223, 
+   "produceTime": 16, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11105001", 
+   "type": 5, 
+   "costRes1": 104, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 4, 
+   "hit": 0.8, 
+   "costRes7": 0, 
+   "uiOrder": 4, 
+   "hp": 5429, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11106001
+   ], 
+   "info": "soldier_info_11105001", 
+   "name": "soldier_name_11105001", 
+   "level": 6, 
+   "xGridCount": 2, 
+   "bigPic": "11105001", 
+   "reliveRes2": 18, 
+   "attackSpeed": 2.46, 
+   "reliveTime": 5, 
+   "warriorType": 1
+  }
+ ], 
+ "11105007": [
+  {
+   "consume": 397, 
+   "skillDisp": [
+    205001, 
+    205002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11105001", 
+   "reliveRes1": 56, 
+   "unitType": 2, 
+   "defense": 17, 
+   "reliveRes7": 2, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11105001", 
+   "id": 11105007, 
+   "costRes2": 253, 
+   "power": 66, 
+   "advantage": [
+    11104001
+   ], 
+   "activityPoint": 65, 
+   "attack": 289, 
+   "produceTime": 20, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11105001", 
+   "type": 5, 
+   "costRes1": 135, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 4, 
+   "hit": 0.82, 
+   "costRes7": 9, 
+   "uiOrder": 4, 
+   "hp": 8226, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11106001
+   ], 
+   "info": "soldier_info_11105001", 
+   "name": "soldier_name_11105001", 
+   "level": 7, 
+   "xGridCount": 2, 
+   "bigPic": "11105001", 
+   "reliveRes2": 18, 
+   "attackSpeed": 2.8, 
+   "reliveTime": 5, 
+   "warriorType": 1
+  }
+ ], 
+ "11105008": [
+  {
+   "consume": 611, 
+   "skillDisp": [
+    205001, 
+    205002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11105001", 
+   "reliveRes1": 60, 
+   "unitType": 2, 
+   "defense": 20, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11105001", 
+   "id": 11105008, 
+   "costRes2": 431, 
+   "power": 102, 
+   "advantage": [
+    11104001
+   ], 
+   "activityPoint": 100, 
+   "attack": 375, 
+   "produceTime": 22, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11105001", 
+   "type": 5, 
+   "costRes1": 176, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 4, 
+   "hit": 0.84, 
+   "costRes7": 12, 
+   "uiOrder": 4, 
+   "hp": 12464, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11106001
+   ], 
+   "info": "soldier_info_11105001", 
+   "name": "soldier_name_11105001", 
+   "level": 8, 
+   "xGridCount": 2, 
+   "bigPic": "11105001", 
+   "reliveRes2": 20, 
+   "attackSpeed": 3.19, 
+   "reliveTime": 6, 
+   "warriorType": 1
+  }
+ ], 
+ "11105009": [
+  {
+   "consume": 940, 
+   "skillDisp": [
+    205001, 
+    205002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11105001", 
+   "reliveRes1": 60, 
+   "unitType": 2, 
+   "defense": 23, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11105001", 
+   "id": 11105009, 
+   "costRes2": 732, 
+   "power": 157, 
+   "advantage": [
+    11104001
+   ], 
+   "activityPoint": 140, 
+   "attack": 487, 
+   "produceTime": 24, 
+   "costRes8": 8, 
+   "desc": "soldier_desc_11105001", 
+   "type": 5, 
+   "costRes1": 228, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 4, 
+   "hit": 0.86, 
+   "costRes7": 16, 
+   "uiOrder": 4, 
+   "hp": 18885, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11106001
+   ], 
+   "info": "soldier_info_11105001", 
+   "name": "soldier_name_11105001", 
+   "level": 9, 
+   "xGridCount": 2, 
+   "bigPic": "11105001", 
+   "reliveRes2": 20, 
+   "attackSpeed": 3.64, 
+   "reliveTime": 6, 
+   "warriorType": 1
+  }
+ ], 
+ "11105010": [
+  {
+   "consume": 1446, 
+   "skillDisp": [
+    205001, 
+    205002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11105001", 
+   "reliveRes1": 66, 
+   "unitType": 2, 
+   "defense": 26, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11105001", 
+   "id": 11105010, 
+   "costRes2": 1245, 
+   "power": 241, 
+   "advantage": [
+    11104001
+   ], 
+   "activityPoint": 195, 
+   "attack": 632, 
+   "produceTime": 25, 
+   "costRes8": 10, 
+   "desc": "soldier_desc_11105001", 
+   "type": 5, 
+   "costRes1": 297, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 4, 
+   "hit": 0.88, 
+   "costRes7": 21, 
+   "uiOrder": 4, 
+   "hp": 28613, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11106001
+   ], 
+   "info": "soldier_info_11105001", 
+   "name": "soldier_name_11105001", 
+   "level": 10, 
+   "xGridCount": 2, 
+   "bigPic": "11105001", 
+   "reliveRes2": 22, 
+   "attackSpeed": 4.15, 
+   "reliveTime": 7, 
+   "warriorType": 1
+  }
+ ], 
+ "11105011": [
+  {
+   "consume": 2225, 
+   "skillDisp": [
+    205001, 
+    205002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11105001", 
+   "reliveRes1": 72, 
+   "unitType": 2, 
+   "defense": 30, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11105001", 
+   "id": 11105011, 
+   "costRes2": 2117, 
+   "power": 371, 
+   "advantage": [
+    11104001
+   ], 
+   "activityPoint": 290, 
+   "attack": 822, 
+   "produceTime": 26, 
+   "costRes8": 14, 
+   "desc": "soldier_desc_11105001", 
+   "type": 5, 
+   "costRes1": 386, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 4, 
+   "hit": 0.9, 
+   "costRes7": 27, 
+   "uiOrder": 4, 
+   "hp": 43354, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11106001
+   ], 
+   "info": "soldier_info_11105001", 
+   "name": "soldier_name_11105001", 
+   "level": 11, 
+   "xGridCount": 2, 
+   "bigPic": "11105001", 
+   "reliveRes2": 22, 
+   "attackSpeed": 4.73, 
+   "reliveTime": 7, 
+   "warriorType": 1
+  }
+ ], 
+ "11105012": [
+  {
+   "consume": 3423, 
+   "skillDisp": [
+    205001, 
+    205002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11105001", 
+   "reliveRes1": 76, 
+   "unitType": 2, 
+   "defense": 34, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11105001", 
+   "id": 11105012, 
+   "costRes2": 3599, 
+   "power": 571, 
+   "advantage": [
+    11104001
+   ], 
+   "activityPoint": 435, 
+   "attack": 1069, 
+   "produceTime": 27, 
+   "costRes8": 18, 
+   "desc": "soldier_desc_11105001", 
+   "type": 5, 
+   "costRes1": 502, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 4, 
+   "hit": 0.92, 
+   "costRes7": 35, 
+   "uiOrder": 4, 
+   "hp": 65688, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11106001
+   ], 
+   "info": "soldier_info_11105001", 
+   "name": "soldier_name_11105001", 
+   "level": 12, 
+   "xGridCount": 2, 
+   "bigPic": "11105001", 
+   "reliveRes2": 22, 
+   "attackSpeed": 5.39, 
+   "reliveTime": 7, 
+   "warriorType": 1
+  }
+ ], 
+ "11211007": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11211007", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 19, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11211007, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 917, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 11329, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11211007", 
+   "level": 7, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 2
+  }
+ ], 
+ "11104001": [
+  {
+   "consume": 30, 
+   "skillDisp": [
+    204001, 
+    204002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11104001", 
+   "reliveRes1": 10, 
+   "unitType": 1, 
+   "defense": 6, 
+   "reliveRes7": 0, 
+   "carry": 1, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11104001", 
+   "id": 11104001, 
+   "costRes2": 0, 
+   "power": 5, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 3, 
+   "attack": 122, 
+   "produceTime": 5, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11104001", 
+   "type": 4, 
+   "costRes1": 35, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.6, 
+   "costRes7": 0, 
+   "uiOrder": 5, 
+   "hp": 340, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11105001
+   ], 
+   "info": "soldier_info_11104001", 
+   "name": "soldier_name_11104001", 
+   "level": 1, 
+   "xGridCount": 1, 
+   "bigPic": "11104001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.5, 
+   "reliveTime": 1, 
+   "warriorType": 3
+  }
+ ], 
+ "11104002": [
+  {
+   "consume": 46, 
+   "skillDisp": [
+    204001, 
+    204002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11104001", 
+   "reliveRes1": 24, 
+   "unitType": 1, 
+   "defense": 7, 
+   "reliveRes7": 0, 
+   "carry": 2, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11104001", 
+   "id": 11104002, 
+   "costRes2": 0, 
+   "power": 8, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 5, 
+   "attack": 156, 
+   "produceTime": 7, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11104001", 
+   "type": 4, 
+   "costRes1": 46, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.63, 
+   "costRes7": 0, 
+   "uiOrder": 5, 
+   "hp": 515, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11105001
+   ], 
+   "info": "soldier_info_11104001", 
+   "name": "soldier_name_11104001", 
+   "level": 2, 
+   "xGridCount": 1, 
+   "bigPic": "11104001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.7, 
+   "reliveTime": 2, 
+   "warriorType": 3
+  }
+ ], 
+ "11104003": [
+  {
+   "consume": 71, 
+   "skillDisp": [
+    204001, 
+    204002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11104001", 
+   "reliveRes1": 36, 
+   "unitType": 1, 
+   "defense": 8, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11104001", 
+   "id": 11104003, 
+   "costRes2": 0, 
+   "power": 12, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 10, 
+   "attack": 200, 
+   "produceTime": 9, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11104001", 
+   "type": 4, 
+   "costRes1": 59, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.66, 
+   "costRes7": 0, 
+   "uiOrder": 5, 
+   "hp": 780, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11105001
+   ], 
+   "info": "soldier_info_11104001", 
+   "name": "soldier_name_11104001", 
+   "level": 3, 
+   "xGridCount": 1, 
+   "bigPic": "11104001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.92, 
+   "reliveTime": 2, 
+   "warriorType": 3
+  }
+ ], 
+ "11104004": [
+  {
+   "consume": 109, 
+   "skillDisp": [
+    204001, 
+    204002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11104001", 
+   "reliveRes1": 50, 
+   "unitType": 1, 
+   "defense": 9, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11104001", 
+   "id": 11104004, 
+   "costRes2": 0, 
+   "power": 18, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 15, 
+   "attack": 256, 
+   "produceTime": 11, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11104001", 
+   "type": 4, 
+   "costRes1": 77, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.69, 
+   "costRes7": 0, 
+   "uiOrder": 5, 
+   "hp": 1182, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11105001
+   ], 
+   "info": "soldier_info_11104001", 
+   "name": "soldier_name_11104001", 
+   "level": 4, 
+   "xGridCount": 1, 
+   "bigPic": "11104001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 2.17, 
+   "reliveTime": 3, 
+   "warriorType": 3
+  }
+ ], 
+ "11104005": [
+  {
+   "consume": 168, 
+   "skillDisp": [
+    204001, 
+    204002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11104001", 
+   "reliveRes1": 60, 
+   "unitType": 1, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11104001", 
+   "id": 11104005, 
+   "costRes2": 0, 
+   "power": 28, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 25, 
+   "attack": 327, 
+   "produceTime": 13, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11104001", 
+   "type": 4, 
+   "costRes1": 100, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.72, 
+   "costRes7": 0, 
+   "uiOrder": 5, 
+   "hp": 1790, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11105001
+   ], 
+   "info": "soldier_info_11104001", 
+   "name": "soldier_name_11104001", 
+   "level": 5, 
+   "xGridCount": 1, 
+   "bigPic": "11104001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 2.46, 
+   "reliveTime": 4, 
+   "warriorType": 3
+  }
+ ], 
+ "11104006": [
+  {
+   "consume": 258, 
+   "skillDisp": [
+    204001, 
+    204002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11104001", 
+   "reliveRes1": 70, 
+   "unitType": 1, 
+   "defense": 12, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11104001", 
+   "id": 11104006, 
+   "costRes2": 0, 
+   "power": 43, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 45, 
+   "attack": 420, 
+   "produceTime": 15, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11104001", 
+   "type": 4, 
+   "costRes1": 130, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.75, 
+   "costRes7": 0, 
+   "uiOrder": 5, 
+   "hp": 2712, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11105001
+   ], 
+   "info": "soldier_info_11104001", 
+   "name": "soldier_name_11104001", 
+   "level": 6, 
+   "xGridCount": 1, 
+   "bigPic": "11104001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 2.79, 
+   "reliveTime": 4, 
+   "warriorType": 3
+  }
+ ], 
+ "11104007": [
+  {
+   "consume": 397, 
+   "skillDisp": [
+    204001, 
+    204002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11104001", 
+   "reliveRes1": 68, 
+   "unitType": 1, 
+   "defense": 14, 
+   "reliveRes7": 2, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11104001", 
+   "id": 11104007, 
+   "costRes2": 0, 
+   "power": 66, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 65, 
+   "attack": 540, 
+   "produceTime": 18, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11104001", 
+   "type": 4, 
+   "costRes1": 169, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.78, 
+   "costRes7": 8, 
+   "uiOrder": 5, 
+   "hp": 4110, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11105001
+   ], 
+   "info": "soldier_info_11104001", 
+   "name": "soldier_name_11104001", 
+   "level": 7, 
+   "xGridCount": 1, 
+   "bigPic": "11104001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 3.16, 
+   "reliveTime": 5, 
+   "warriorType": 3
+  }
+ ], 
+ "11104008": [
+  {
+   "consume": 611, 
+   "skillDisp": [
+    204001, 
+    204002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11104001", 
+   "reliveRes1": 74, 
+   "unitType": 1, 
+   "defense": 16, 
+   "reliveRes7": 2, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11104001", 
+   "id": 11104008, 
+   "costRes2": 0, 
+   "power": 102, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 100, 
+   "attack": 696, 
+   "produceTime": 20, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11104001", 
+   "type": 4, 
+   "costRes1": 220, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.81, 
+   "costRes7": 11, 
+   "uiOrder": 5, 
+   "hp": 6227, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11105001
+   ], 
+   "info": "soldier_info_11104001", 
+   "name": "soldier_name_11104001", 
+   "level": 8, 
+   "xGridCount": 1, 
+   "bigPic": "11104001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 3.58, 
+   "reliveTime": 5, 
+   "warriorType": 3
+  }
+ ], 
+ "11104009": [
+  {
+   "consume": 940, 
+   "skillDisp": [
+    204001, 
+    204002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11104001", 
+   "reliveRes1": 76, 
+   "unitType": 1, 
+   "defense": 18, 
+   "reliveRes7": 2, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11104001", 
+   "id": 11104009, 
+   "costRes2": 0, 
+   "power": 157, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 140, 
+   "attack": 897, 
+   "produceTime": 22, 
+   "costRes8": 6, 
+   "desc": "soldier_desc_11104001", 
+   "type": 4, 
+   "costRes1": 286, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.84, 
+   "costRes7": 14, 
+   "uiOrder": 5, 
+   "hp": 9435, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11105001
+   ], 
+   "info": "soldier_info_11104001", 
+   "name": "soldier_name_11104001", 
+   "level": 9, 
+   "xGridCount": 1, 
+   "bigPic": "11104001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 4.06, 
+   "reliveTime": 6, 
+   "warriorType": 3
+  }
+ ], 
+ "11104010": [
+  {
+   "consume": 1446, 
+   "skillDisp": [
+    204001, 
+    204002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11104001", 
+   "reliveRes1": 78, 
+   "unitType": 1, 
+   "defense": 21, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11104001", 
+   "id": 11104010, 
+   "costRes2": 0, 
+   "power": 241, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 195, 
+   "attack": 1155, 
+   "produceTime": 23, 
+   "costRes8": 8, 
+   "desc": "soldier_desc_11104001", 
+   "type": 4, 
+   "costRes1": 371, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.87, 
+   "costRes7": 18, 
+   "uiOrder": 5, 
+   "hp": 14296, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11105001
+   ], 
+   "info": "soldier_info_11104001", 
+   "name": "soldier_name_11104001", 
+   "level": 10, 
+   "xGridCount": 1, 
+   "bigPic": "11104001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 4.61, 
+   "reliveTime": 6, 
+   "warriorType": 3
+  }
+ ], 
+ "11104011": [
+  {
+   "consume": 2225, 
+   "skillDisp": [
+    204001, 
+    204002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11104001", 
+   "reliveRes1": 86, 
+   "unitType": 1, 
+   "defense": 24, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11104001", 
+   "id": 11104011, 
+   "costRes2": 0, 
+   "power": 371, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 290, 
+   "attack": 1489, 
+   "produceTime": 24, 
+   "costRes8": 10, 
+   "desc": "soldier_desc_11104001", 
+   "type": 4, 
+   "costRes1": 483, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.9, 
+   "costRes7": 23, 
+   "uiOrder": 5, 
+   "hp": 21660, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11105001
+   ], 
+   "info": "soldier_info_11104001", 
+   "name": "soldier_name_11104001", 
+   "level": 11, 
+   "xGridCount": 1, 
+   "bigPic": "11104001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 5.24, 
+   "reliveTime": 6, 
+   "warriorType": 3
+  }
+ ], 
+ "11104012": [
+  {
+   "consume": 3423, 
+   "skillDisp": [
+    204001, 
+    204002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11104001", 
+   "reliveRes1": 88, 
+   "unitType": 1, 
+   "defense": 27, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11104001", 
+   "id": 11104012, 
+   "costRes2": 0, 
+   "power": 571, 
+   "advantage": [
+    11106001
+   ], 
+   "activityPoint": 435, 
+   "attack": 1922, 
+   "produceTime": 25, 
+   "costRes8": 13, 
+   "desc": "soldier_desc_11104001", 
+   "type": 4, 
+   "costRes1": 627, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 5, 
+   "hit": 0.93, 
+   "costRes7": 30, 
+   "uiOrder": 5, 
+   "hp": 32818, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11105001
+   ], 
+   "info": "soldier_info_11104001", 
+   "name": "soldier_name_11104001", 
+   "level": 12, 
+   "xGridCount": 1, 
+   "bigPic": "11104001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 5.95, 
+   "reliveTime": 7, 
+   "warriorType": 3
+  }
+ ], 
+ "11210001": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11210001", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 6, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11210001, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 100, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 309, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11210001", 
+   "level": 1, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11210003": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11210001", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 8, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11210003, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 230, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 709, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11210003", 
+   "level": 3, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11210005": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11210001", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11210005, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 527, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 1628, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11210005", 
+   "level": 5, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11210006": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11210001", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 12, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11210006, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 799, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 2468, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11210006", 
+   "level": 6, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11103001": [
+  {
+   "consume": 30, 
+   "skillDisp": [
+    202001, 
+    202002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11103001", 
+   "reliveRes1": 8, 
+   "unitType": 1, 
+   "defense": 6, 
+   "reliveRes7": 0, 
+   "carry": 1, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11103001", 
+   "id": 11103001, 
+   "costRes2": 6, 
+   "power": 5, 
+   "advantage": [
+    11102001
+   ], 
+   "activityPoint": 3, 
+   "attack": 111, 
+   "produceTime": 5, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11103001", 
+   "type": 3, 
+   "costRes1": 29, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.6, 
+   "costRes7": 0, 
+   "uiOrder": 2, 
+   "hp": 309, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11101001
+   ], 
+   "info": "soldier_info_11103001", 
+   "name": "soldier_name_11103001", 
+   "level": 1, 
+   "xGridCount": 1, 
+   "bigPic": "11103001", 
+   "reliveRes2": 2, 
+   "attackSpeed": 1.5, 
+   "reliveTime": 1, 
+   "warriorType": 3
+  }
+ ], 
+ "11103002": [
+  {
+   "consume": 46, 
+   "skillDisp": [
+    202001, 
+    202002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11103001", 
+   "reliveRes1": 22, 
+   "unitType": 1, 
+   "defense": 7, 
+   "reliveRes7": 0, 
+   "carry": 2, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11103001", 
+   "id": 11103002, 
+   "costRes2": 10, 
+   "power": 8, 
+   "advantage": [
+    11102001
+   ], 
+   "activityPoint": 5, 
+   "attack": 142, 
+   "produceTime": 7, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11103001", 
+   "type": 3, 
+   "costRes1": 38, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.63, 
+   "costRes7": 0, 
+   "uiOrder": 2, 
+   "hp": 468, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11101001
+   ], 
+   "info": "soldier_info_11103001", 
+   "name": "soldier_name_11103001", 
+   "level": 2, 
+   "xGridCount": 1, 
+   "bigPic": "11103001", 
+   "reliveRes2": 2, 
+   "attackSpeed": 1.7, 
+   "reliveTime": 2, 
+   "warriorType": 3
+  }
+ ], 
+ "11103003": [
+  {
+   "consume": 71, 
+   "skillDisp": [
+    202001, 
+    202002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11103001", 
+   "reliveRes1": 34, 
+   "unitType": 1, 
+   "defense": 8, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11103001", 
+   "id": 11103003, 
+   "costRes2": 17, 
+   "power": 12, 
+   "advantage": [
+    11102001
+   ], 
+   "activityPoint": 10, 
+   "attack": 182, 
+   "produceTime": 9, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11103001", 
+   "type": 3, 
+   "costRes1": 49, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.66, 
+   "costRes7": 0, 
+   "uiOrder": 2, 
+   "hp": 709, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11101001
+   ], 
+   "info": "soldier_info_11103001", 
+   "name": "soldier_name_11103001", 
+   "level": 3, 
+   "xGridCount": 1, 
+   "bigPic": "11103001", 
+   "reliveRes2": 4, 
+   "attackSpeed": 1.92, 
+   "reliveTime": 2, 
+   "warriorType": 3
+  }
+ ], 
+ "11103004": [
+  {
+   "consume": 109, 
+   "skillDisp": [
+    202001, 
+    202002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11103001", 
+   "reliveRes1": 44, 
+   "unitType": 1, 
+   "defense": 9, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11103001", 
+   "id": 11103004, 
+   "costRes2": 29, 
+   "power": 18, 
+   "advantage": [
+    11102001
+   ], 
+   "activityPoint": 15, 
+   "attack": 232, 
+   "produceTime": 11, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11103001", 
+   "type": 3, 
+   "costRes1": 64, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.69, 
+   "costRes7": 0, 
+   "uiOrder": 2, 
+   "hp": 1075, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11101001
+   ], 
+   "info": "soldier_info_11103001", 
+   "name": "soldier_name_11103001", 
+   "level": 4, 
+   "xGridCount": 1, 
+   "bigPic": "11103001", 
+   "reliveRes2": 6, 
+   "attackSpeed": 2.17, 
+   "reliveTime": 3, 
+   "warriorType": 3
+  }
+ ], 
+ "11103005": [
+  {
+   "consume": 168, 
+   "skillDisp": [
+    202001, 
+    202002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11103001", 
+   "reliveRes1": 54, 
+   "unitType": 1, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11103001", 
+   "id": 11103005, 
+   "costRes2": 49, 
+   "power": 28, 
+   "advantage": [
+    11102001
+   ], 
+   "activityPoint": 25, 
+   "attack": 298, 
+   "produceTime": 13, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11103001", 
+   "type": 3, 
+   "costRes1": 83, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.72, 
+   "costRes7": 0, 
+   "uiOrder": 2, 
+   "hp": 1628, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11101001
+   ], 
+   "info": "soldier_info_11103001", 
+   "name": "soldier_name_11103001", 
+   "level": 5, 
+   "xGridCount": 1, 
+   "bigPic": "11103001", 
+   "reliveRes2": 6, 
+   "attackSpeed": 2.46, 
+   "reliveTime": 4, 
+   "warriorType": 3
+  }
+ ], 
+ "11103006": [
+  {
+   "consume": 258, 
+   "skillDisp": [
+    202001, 
+    202002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11103001", 
+   "reliveRes1": 62, 
+   "unitType": 1, 
+   "defense": 12, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11103001", 
+   "id": 11103006, 
+   "costRes2": 83, 
+   "power": 43, 
+   "advantage": [
+    11102001
+   ], 
+   "activityPoint": 45, 
+   "attack": 381, 
+   "produceTime": 15, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11103001", 
+   "type": 3, 
+   "costRes1": 108, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.75, 
+   "costRes7": 0, 
+   "uiOrder": 2, 
+   "hp": 2467, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11101001
+   ], 
+   "info": "soldier_info_11103001", 
+   "name": "soldier_name_11103001", 
+   "level": 6, 
+   "xGridCount": 1, 
+   "bigPic": "11103001", 
+   "reliveRes2": 8, 
+   "attackSpeed": 2.79, 
+   "reliveTime": 4, 
+   "warriorType": 3
+  }
+ ], 
+ "11103007": [
+  {
+   "consume": 397, 
+   "skillDisp": [
+    202001, 
+    202002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11103001", 
+   "reliveRes1": 60, 
+   "unitType": 1, 
+   "defense": 13, 
+   "reliveRes7": 2, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11103001", 
+   "id": 11103007, 
+   "costRes2": 141, 
+   "power": 66, 
+   "advantage": [
+    11102001
+   ], 
+   "activityPoint": 65, 
+   "attack": 491, 
+   "produceTime": 18, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11103001", 
+   "type": 3, 
+   "costRes1": 141, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.78, 
+   "costRes7": 8, 
+   "uiOrder": 2, 
+   "hp": 3738, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11101001
+   ], 
+   "info": "soldier_info_11103001", 
+   "name": "soldier_name_11103001", 
+   "level": 7, 
+   "xGridCount": 1, 
+   "bigPic": "11103001", 
+   "reliveRes2": 8, 
+   "attackSpeed": 3.16, 
+   "reliveTime": 5, 
+   "warriorType": 3
+  }
+ ], 
+ "11103008": [
+  {
+   "consume": 611, 
+   "skillDisp": [
+    202001, 
+    202002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11103001", 
+   "reliveRes1": 62, 
+   "unitType": 1, 
+   "defense": 15, 
+   "reliveRes7": 2, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11103001", 
+   "id": 11103008, 
+   "costRes2": 239, 
+   "power": 102, 
+   "advantage": [
+    11102001
+   ], 
+   "activityPoint": 100, 
+   "attack": 632, 
+   "produceTime": 20, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11103001", 
+   "type": 3, 
+   "costRes1": 183, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.81, 
+   "costRes7": 11, 
+   "uiOrder": 2, 
+   "hp": 5663, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11101001
+   ], 
+   "info": "soldier_info_11103001", 
+   "name": "soldier_name_11103001", 
+   "level": 8, 
+   "xGridCount": 1, 
+   "bigPic": "11103001", 
+   "reliveRes2": 10, 
+   "attackSpeed": 3.58, 
+   "reliveTime": 5, 
+   "warriorType": 3
+  }
+ ], 
+ "11103009": [
+  {
+   "consume": 940, 
+   "skillDisp": [
+    202001, 
+    202002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11103001", 
+   "reliveRes1": 66, 
+   "unitType": 1, 
+   "defense": 17, 
+   "reliveRes7": 2, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11103001", 
+   "id": 11103009, 
+   "costRes2": 407, 
+   "power": 157, 
+   "advantage": [
+    11102001
+   ], 
+   "activityPoint": 140, 
+   "attack": 814, 
+   "produceTime": 22, 
+   "costRes8": 6, 
+   "desc": "soldier_desc_11103001", 
+   "type": 3, 
+   "costRes1": 238, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.84, 
+   "costRes7": 14, 
+   "uiOrder": 2, 
+   "hp": 8581, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11101001
+   ], 
+   "info": "soldier_info_11103001", 
+   "name": "soldier_name_11103001", 
+   "level": 9, 
+   "xGridCount": 1, 
+   "bigPic": "11103001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 4.06, 
+   "reliveTime": 6, 
+   "warriorType": 3
+  }
+ ], 
+ "11103010": [
+  {
+   "consume": 1446, 
+   "skillDisp": [
+    202001, 
+    202002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11103001", 
+   "reliveRes1": 66, 
+   "unitType": 1, 
+   "defense": 20, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11103001", 
+   "id": 11103010, 
+   "costRes2": 692, 
+   "power": 241, 
+   "advantage": [
+    11102001
+   ], 
+   "activityPoint": 195, 
+   "attack": 1049, 
+   "produceTime": 23, 
+   "costRes8": 8, 
+   "desc": "soldier_desc_11103001", 
+   "type": 3, 
+   "costRes1": 309, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.87, 
+   "costRes7": 18, 
+   "uiOrder": 2, 
+   "hp": 13001, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11101001
+   ], 
+   "info": "soldier_info_11103001", 
+   "name": "soldier_name_11103001", 
+   "level": 10, 
+   "xGridCount": 1, 
+   "bigPic": "11103001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 4.61, 
+   "reliveTime": 6, 
+   "warriorType": 3
+  }
+ ], 
+ "11103011": [
+  {
+   "consume": 2225, 
+   "skillDisp": [
+    202001, 
+    202002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11103001", 
+   "reliveRes1": 74, 
+   "unitType": 1, 
+   "defense": 23, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11103001", 
+   "id": 11103011, 
+   "costRes2": 1176, 
+   "power": 371, 
+   "advantage": [
+    11102001
+   ], 
+   "activityPoint": 290, 
+   "attack": 1351, 
+   "produceTime": 24, 
+   "costRes8": 10, 
+   "desc": "soldier_desc_11103001", 
+   "type": 3, 
+   "costRes1": 402, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.9, 
+   "costRes7": 23, 
+   "uiOrder": 2, 
+   "hp": 19699, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11101001
+   ], 
+   "info": "soldier_info_11103001", 
+   "name": "soldier_name_11103001", 
+   "level": 11, 
+   "xGridCount": 1, 
+   "bigPic": "11103001", 
+   "reliveRes2": 14, 
+   "attackSpeed": 5.24, 
+   "reliveTime": 6, 
+   "warriorType": 3
+  }
+ ], 
+ "11103012": [
+  {
+   "consume": 3423, 
+   "skillDisp": [
+    202001, 
+    202002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11103001", 
+   "reliveRes1": 76, 
+   "unitType": 1, 
+   "defense": 26, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11103001", 
+   "id": 11103012, 
+   "costRes2": 1999, 
+   "power": 571, 
+   "advantage": [
+    11102001
+   ], 
+   "activityPoint": 435, 
+   "attack": 1745, 
+   "produceTime": 25, 
+   "costRes8": 13, 
+   "desc": "soldier_desc_11103001", 
+   "type": 3, 
+   "costRes1": 523, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 2, 
+   "hit": 0.93, 
+   "costRes7": 30, 
+   "uiOrder": 2, 
+   "hp": 29848, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11101001
+   ], 
+   "info": "soldier_info_11103001", 
+   "name": "soldier_name_11103001", 
+   "level": 12, 
+   "xGridCount": 1, 
+   "bigPic": "11103001", 
+   "reliveRes2": 14, 
+   "attackSpeed": 5.95, 
+   "reliveTime": 7, 
+   "warriorType": 3
+  }
+ ], 
+ "11209003": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11209003", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11209003, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 115, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 1419, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11209003", 
+   "level": 3, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 2
+  }
+ ], 
+ "11209004": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11209003", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 11, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11209004, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 174, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 2149, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11209004", 
+   "level": 4, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 2
+  }
+ ], 
+ "11209006": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11209003", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 15, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11209006, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 399, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 4935, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11209006", 
+   "level": 6, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 2
+  }
+ ], 
+ "11102001": [
+  {
+   "consume": 30, 
+   "skillDisp": [
+    203001, 
+    203002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11102001", 
+   "reliveRes1": 8, 
+   "unitType": 2, 
+   "defense": 6, 
+   "reliveRes7": 0, 
+   "carry": 1, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11102001", 
+   "id": 11102001, 
+   "costRes2": 6, 
+   "power": 5, 
+   "advantage": [
+    11101001
+   ], 
+   "activityPoint": 3, 
+   "attack": 78, 
+   "produceTime": 5, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11102001", 
+   "type": 2, 
+   "costRes1": 29, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.65, 
+   "costRes7": 0, 
+   "uiOrder": 3, 
+   "hp": 433, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11103001
+   ], 
+   "info": "soldier_info_11102001", 
+   "name": "soldier_name_11102001", 
+   "level": 1, 
+   "xGridCount": 2, 
+   "bigPic": "11102001", 
+   "reliveRes2": 2, 
+   "attackSpeed": 1.38, 
+   "reliveTime": 1, 
+   "warriorType": 2
+  }
+ ], 
+ "11102002": [
+  {
+   "consume": 46, 
+   "skillDisp": [
+    203001, 
+    203002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11102001", 
+   "reliveRes1": 20, 
+   "unitType": 2, 
+   "defense": 7, 
+   "reliveRes7": 0, 
+   "carry": 2, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11102001", 
+   "id": 11102002, 
+   "costRes2": 10, 
+   "power": 8, 
+   "advantage": [
+    11101001
+   ], 
+   "activityPoint": 5, 
+   "attack": 101, 
+   "produceTime": 7, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11102001", 
+   "type": 2, 
+   "costRes1": 38, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.675, 
+   "costRes7": 0, 
+   "uiOrder": 3, 
+   "hp": 656, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11103001
+   ], 
+   "info": "soldier_info_11102001", 
+   "name": "soldier_name_11102001", 
+   "level": 2, 
+   "xGridCount": 2, 
+   "bigPic": "11102001", 
+   "reliveRes2": 4, 
+   "attackSpeed": 1.56, 
+   "reliveTime": 2, 
+   "warriorType": 2
+  }
+ ], 
+ "11102003": [
+  {
+   "consume": 71, 
+   "skillDisp": [
+    203001, 
+    203002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11102001", 
+   "reliveRes1": 32, 
+   "unitType": 2, 
+   "defense": 9, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11102001", 
+   "id": 11102003, 
+   "costRes2": 17, 
+   "power": 12, 
+   "advantage": [
+    11101001
+   ], 
+   "activityPoint": 10, 
+   "attack": 130, 
+   "produceTime": 9, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11102001", 
+   "type": 2, 
+   "costRes1": 49, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.7, 
+   "costRes7": 0, 
+   "uiOrder": 3, 
+   "hp": 994, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11103001
+   ], 
+   "info": "soldier_info_11102001", 
+   "name": "soldier_name_11102001", 
+   "level": 3, 
+   "xGridCount": 2, 
+   "bigPic": "11102001", 
+   "reliveRes2": 6, 
+   "attackSpeed": 1.77, 
+   "reliveTime": 2, 
+   "warriorType": 2
+  }
+ ], 
+ "11102004": [
+  {
+   "consume": 109, 
+   "skillDisp": [
+    203001, 
+    203002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11102001", 
+   "reliveRes1": 44, 
+   "unitType": 2, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11102001", 
+   "id": 11102004, 
+   "costRes2": 29, 
+   "power": 18, 
+   "advantage": [
+    11101001
+   ], 
+   "activityPoint": 15, 
+   "attack": 167, 
+   "produceTime": 11, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11102001", 
+   "type": 2, 
+   "costRes1": 64, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.725, 
+   "costRes7": 0, 
+   "uiOrder": 3, 
+   "hp": 1505, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11103001
+   ], 
+   "info": "soldier_info_11102001", 
+   "name": "soldier_name_11102001", 
+   "level": 4, 
+   "xGridCount": 2, 
+   "bigPic": "11102001", 
+   "reliveRes2": 6, 
+   "attackSpeed": 2.01, 
+   "reliveTime": 3, 
+   "warriorType": 2
+  }
+ ], 
+ "11102005": [
+  {
+   "consume": 168, 
+   "skillDisp": [
+    203001, 
+    203002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11102001", 
+   "reliveRes1": 52, 
+   "unitType": 2, 
+   "defense": 11, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11102001", 
+   "id": 11102005, 
+   "costRes2": 49, 
+   "power": 28, 
+   "advantage": [
+    11101001
+   ], 
+   "activityPoint": 25, 
+   "attack": 216, 
+   "produceTime": 13, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11102001", 
+   "type": 2, 
+   "costRes1": 83, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.75, 
+   "costRes7": 0, 
+   "uiOrder": 3, 
+   "hp": 2281, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11103001
+   ], 
+   "info": "soldier_info_11102001", 
+   "name": "soldier_name_11102001", 
+   "level": 5, 
+   "xGridCount": 2, 
+   "bigPic": "11102001", 
+   "reliveRes2": 8, 
+   "attackSpeed": 2.28, 
+   "reliveTime": 4, 
+   "warriorType": 2
+  }
+ ], 
+ "11102006": [
+  {
+   "consume": 258, 
+   "skillDisp": [
+    203001, 
+    203002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11102001", 
+   "reliveRes1": 60, 
+   "unitType": 2, 
+   "defense": 13, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11102001", 
+   "id": 11102006, 
+   "costRes2": 83, 
+   "power": 43, 
+   "advantage": [
+    11101001
+   ], 
+   "activityPoint": 45, 
+   "attack": 279, 
+   "produceTime": 15, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11102001", 
+   "type": 2, 
+   "costRes1": 108, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.775, 
+   "costRes7": 0, 
+   "uiOrder": 3, 
+   "hp": 3456, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11103001
+   ], 
+   "info": "soldier_info_11102001", 
+   "name": "soldier_name_11102001", 
+   "level": 6, 
+   "xGridCount": 2, 
+   "bigPic": "11102001", 
+   "reliveRes2": 10, 
+   "attackSpeed": 2.59, 
+   "reliveTime": 4, 
+   "warriorType": 2
+  }
+ ], 
+ "11102007": [
+  {
+   "consume": 397, 
+   "skillDisp": [
+    203001, 
+    203002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11102001", 
+   "reliveRes1": 58, 
+   "unitType": 2, 
+   "defense": 15, 
+   "reliveRes7": 2, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11102001", 
+   "id": 11102007, 
+   "costRes2": 141, 
+   "power": 66, 
+   "advantage": [
+    11101001
+   ], 
+   "activityPoint": 65, 
+   "attack": 361, 
+   "produceTime": 18, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11102001", 
+   "type": 2, 
+   "costRes1": 141, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.8, 
+   "costRes7": 8, 
+   "uiOrder": 3, 
+   "hp": 5236, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11103001
+   ], 
+   "info": "soldier_info_11102001", 
+   "name": "soldier_name_11102001", 
+   "level": 7, 
+   "xGridCount": 2, 
+   "bigPic": "11102001", 
+   "reliveRes2": 10, 
+   "attackSpeed": 2.94, 
+   "reliveTime": 5, 
+   "warriorType": 2
+  }
+ ], 
+ "11102008": [
+  {
+   "consume": 611, 
+   "skillDisp": [
+    203001, 
+    203002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11102001", 
+   "reliveRes1": 62, 
+   "unitType": 2, 
+   "defense": 17, 
+   "reliveRes7": 2, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11102001", 
+   "id": 11102008, 
+   "costRes2": 239, 
+   "power": 102, 
+   "advantage": [
+    11101001
+   ], 
+   "activityPoint": 100, 
+   "attack": 467, 
+   "produceTime": 20, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11102001", 
+   "type": 2, 
+   "costRes1": 183, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.825, 
+   "costRes7": 11, 
+   "uiOrder": 3, 
+   "hp": 7934, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11103001
+   ], 
+   "info": "soldier_info_11102001", 
+   "name": "soldier_name_11102001", 
+   "level": 8, 
+   "xGridCount": 2, 
+   "bigPic": "11102001", 
+   "reliveRes2": 10, 
+   "attackSpeed": 3.34, 
+   "reliveTime": 5, 
+   "warriorType": 2
+  }
+ ], 
+ "11102009": [
+  {
+   "consume": 940, 
+   "skillDisp": [
+    203001, 
+    203002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11102001", 
+   "reliveRes1": 66, 
+   "unitType": 2, 
+   "defense": 20, 
+   "reliveRes7": 2, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11102001", 
+   "id": 11102009, 
+   "costRes2": 407, 
+   "power": 157, 
+   "advantage": [
+    11101001
+   ], 
+   "activityPoint": 140, 
+   "attack": 604, 
+   "produceTime": 22, 
+   "costRes8": 6, 
+   "desc": "soldier_desc_11102001", 
+   "type": 2, 
+   "costRes1": 238, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.85, 
+   "costRes7": 14, 
+   "uiOrder": 3, 
+   "hp": 12021, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11103001
+   ], 
+   "info": "soldier_info_11102001", 
+   "name": "soldier_name_11102001", 
+   "level": 9, 
+   "xGridCount": 2, 
+   "bigPic": "11102001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 3.8, 
+   "reliveTime": 6, 
+   "warriorType": 2
+  }
+ ], 
+ "11102010": [
+  {
+   "consume": 1446, 
+   "skillDisp": [
+    203001, 
+    203002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11102001", 
+   "reliveRes1": 66, 
+   "unitType": 2, 
+   "defense": 22, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11102001", 
+   "id": 11102010, 
+   "costRes2": 692, 
+   "power": 241, 
+   "advantage": [
+    11101001
+   ], 
+   "activityPoint": 195, 
+   "attack": 783, 
+   "produceTime": 23, 
+   "costRes8": 8, 
+   "desc": "soldier_desc_11102001", 
+   "type": 2, 
+   "costRes1": 309, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.875, 
+   "costRes7": 18, 
+   "uiOrder": 3, 
+   "hp": 18214, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11103001
+   ], 
+   "info": "soldier_info_11102001", 
+   "name": "soldier_name_11102001", 
+   "level": 10, 
+   "xGridCount": 2, 
+   "bigPic": "11102001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 4.32, 
+   "reliveTime": 6, 
+   "warriorType": 2
+  }
+ ], 
+ "11102011": [
+  {
+   "consume": 2225, 
+   "skillDisp": [
+    203001, 
+    203002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11102001", 
+   "reliveRes1": 74, 
+   "unitType": 2, 
+   "defense": 26, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11102001", 
+   "id": 11102011, 
+   "costRes2": 1176, 
+   "power": 371, 
+   "advantage": [
+    11101001
+   ], 
+   "activityPoint": 290, 
+   "attack": 1012, 
+   "produceTime": 24, 
+   "costRes8": 10, 
+   "desc": "soldier_desc_11102001", 
+   "type": 2, 
+   "costRes1": 402, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.9, 
+   "costRes7": 23, 
+   "uiOrder": 3, 
+   "hp": 27597, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11103001
+   ], 
+   "info": "soldier_info_11102001", 
+   "name": "soldier_name_11102001", 
+   "level": 11, 
+   "xGridCount": 2, 
+   "bigPic": "11102001", 
+   "reliveRes2": 12, 
+   "attackSpeed": 4.92, 
+   "reliveTime": 6, 
+   "warriorType": 2
+  }
+ ], 
+ "11102012": [
+  {
+   "consume": 3423, 
+   "skillDisp": [
+    203001, 
+    203002
+   ], 
+   "yGridCount": 2, 
+   "headIcon": "zf11102001", 
+   "reliveRes1": 76, 
+   "unitType": 2, 
+   "defense": 30, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11102001", 
+   "id": 11102012, 
+   "costRes2": 1999, 
+   "power": 571, 
+   "advantage": [
+    11101001
+   ], 
+   "activityPoint": 435, 
+   "attack": 1311, 
+   "produceTime": 25, 
+   "costRes8": 13, 
+   "desc": "soldier_desc_11102001", 
+   "type": 2, 
+   "costRes1": 523, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 3, 
+   "hit": 0.925, 
+   "costRes7": 30, 
+   "uiOrder": 3, 
+   "hp": 41814, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11103001
+   ], 
+   "info": "soldier_info_11102001", 
+   "name": "soldier_name_11102001", 
+   "level": 12, 
+   "xGridCount": 2, 
+   "bigPic": "11102001", 
+   "reliveRes2": 14, 
+   "attackSpeed": 5.6, 
+   "reliveTime": 7, 
+   "warriorType": 2
+  }
+ ], 
+ "11208005": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11208007", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 13, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11208005, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 264, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 3257, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11208005", 
+   "level": 5, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 1
+  }
+ ], 
+ "11208007": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11208007", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 17, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11208007, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 605, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 7477, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11208007", 
+   "level": 7, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 1
+  }
+ ], 
+ "11101001": [
+  {
+   "consume": 30, 
+   "skillDisp": [
+    201001, 
+    201002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11101001", 
+   "reliveRes1": 10, 
+   "unitType": 1, 
+   "defense": 7, 
+   "reliveRes7": 0, 
+   "carry": 1, 
+   "reliveRes8": 0, 
+   "skill": 3, 
+   "headIconMono": "hb11101001", 
+   "id": 11101001, 
+   "costRes2": 0, 
+   "power": 5, 
+   "advantage": [
+    11103001
+   ], 
+   "activityPoint": 3, 
+   "attack": 55, 
+   "produceTime": 5, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11101001", 
+   "type": 1, 
+   "costRes1": 35, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 1, 
+   "hit": 0.7, 
+   "costRes7": 0, 
+   "uiOrder": 1, 
+   "hp": 618, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11102001
+   ], 
+   "info": "soldier_info_11101001", 
+   "name": "soldier_name_11101001", 
+   "level": 1, 
+   "xGridCount": 1, 
+   "bigPic": "11101001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.29, 
+   "reliveTime": 1, 
+   "warriorType": 1
+  }
+ ], 
+ "11101002": [
+  {
+   "consume": 46, 
+   "skillDisp": [
+    201001, 
+    201002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11101001", 
+   "reliveRes1": 24, 
+   "unitType": 1, 
+   "defense": 8, 
+   "reliveRes7": 0, 
+   "carry": 2, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11101001", 
+   "id": 11101002, 
+   "costRes2": 0, 
+   "power": 8, 
+   "advantage": [
+    11103001
+   ], 
+   "activityPoint": 5, 
+   "attack": 72, 
+   "produceTime": 7, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11101001", 
+   "type": 1, 
+   "costRes1": 46, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 1, 
+   "hit": 0.72, 
+   "costRes7": 0, 
+   "uiOrder": 1, 
+   "hp": 936, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11102001
+   ], 
+   "info": "soldier_info_11101001", 
+   "name": "soldier_name_11101001", 
+   "level": 2, 
+   "xGridCount": 1, 
+   "bigPic": "11101001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.47, 
+   "reliveTime": 2, 
+   "warriorType": 1
+  }
+ ], 
+ "11101003": [
+  {
+   "consume": 71, 
+   "skillDisp": [
+    201001, 
+    201002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11101001", 
+   "reliveRes1": 36, 
+   "unitType": 1, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11101001", 
+   "id": 11101003, 
+   "costRes2": 0, 
+   "power": 12, 
+   "advantage": [
+    11103001
+   ], 
+   "activityPoint": 10, 
+   "attack": 93, 
+   "produceTime": 9, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11101001", 
+   "type": 1, 
+   "costRes1": 59, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 1, 
+   "hit": 0.74, 
+   "costRes7": 0, 
+   "uiOrder": 1, 
+   "hp": 1418, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11102001
+   ], 
+   "info": "soldier_info_11101001", 
+   "name": "soldier_name_11101001", 
+   "level": 3, 
+   "xGridCount": 1, 
+   "bigPic": "11101001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.67, 
+   "reliveTime": 2, 
+   "warriorType": 1
+  }
+ ], 
+ "11101004": [
+  {
+   "consume": 109, 
+   "skillDisp": [
+    201001, 
+    201002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11101001", 
+   "reliveRes1": 50, 
+   "unitType": 1, 
+   "defense": 11, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11101001", 
+   "id": 11101004, 
+   "costRes2": 0, 
+   "power": 18, 
+   "advantage": [
+    11103001
+   ], 
+   "activityPoint": 15, 
+   "attack": 120, 
+   "produceTime": 11, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11101001", 
+   "type": 1, 
+   "costRes1": 77, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 1, 
+   "hit": 0.76, 
+   "costRes7": 0, 
+   "uiOrder": 1, 
+   "hp": 2149, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11102001
+   ], 
+   "info": "soldier_info_11101001", 
+   "name": "soldier_name_11101001", 
+   "level": 4, 
+   "xGridCount": 1, 
+   "bigPic": "11101001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.9, 
+   "reliveTime": 3, 
+   "warriorType": 1
+  }
+ ], 
+ "11101005": [
+  {
+   "consume": 168, 
+   "skillDisp": [
+    201001, 
+    201002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11101001", 
+   "reliveRes1": 60, 
+   "unitType": 1, 
+   "defense": 13, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11101001", 
+   "id": 11101005, 
+   "costRes2": 0, 
+   "power": 28, 
+   "advantage": [
+    11103001
+   ], 
+   "activityPoint": 25, 
+   "attack": 157, 
+   "produceTime": 13, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11101001", 
+   "type": 1, 
+   "costRes1": 100, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 1, 
+   "hit": 0.78, 
+   "costRes7": 0, 
+   "uiOrder": 1, 
+   "hp": 3256, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11102001
+   ], 
+   "info": "soldier_info_11101001", 
+   "name": "soldier_name_11101001", 
+   "level": 5, 
+   "xGridCount": 1, 
+   "bigPic": "11101001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 2.16, 
+   "reliveTime": 4, 
+   "warriorType": 1
+  }
+ ], 
+ "11101006": [
+  {
+   "consume": 258, 
+   "skillDisp": [
+    201001, 
+    201002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11101001", 
+   "reliveRes1": 70, 
+   "unitType": 1, 
+   "defense": 15, 
+   "reliveRes7": 0, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11101001", 
+   "id": 11101006, 
+   "costRes2": 0, 
+   "power": 43, 
+   "advantage": [
+    11103001
+   ], 
+   "activityPoint": 45, 
+   "attack": 203, 
+   "produceTime": 15, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11101001", 
+   "type": 1, 
+   "costRes1": 130, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 1, 
+   "hit": 0.8, 
+   "costRes7": 0, 
+   "uiOrder": 1, 
+   "hp": 4933, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11102001
+   ], 
+   "info": "soldier_info_11101001", 
+   "name": "soldier_name_11101001", 
+   "level": 6, 
+   "xGridCount": 1, 
+   "bigPic": "11101001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 2.46, 
+   "reliveTime": 4, 
+   "warriorType": 1
+  }
+ ], 
+ "11101007": [
+  {
+   "consume": 397, 
+   "skillDisp": [
+    201001, 
+    201002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11101001", 
+   "reliveRes1": 68, 
+   "unitType": 1, 
+   "defense": 17, 
+   "reliveRes7": 2, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11101001", 
+   "id": 11101007, 
+   "costRes2": 0, 
+   "power": 66, 
+   "advantage": [
+    11103001
+   ], 
+   "activityPoint": 65, 
+   "attack": 264, 
+   "produceTime": 18, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11101001", 
+   "type": 1, 
+   "costRes1": 169, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 1, 
+   "hit": 0.82, 
+   "costRes7": 8, 
+   "uiOrder": 1, 
+   "hp": 7474, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11102001
+   ], 
+   "info": "soldier_info_11101001", 
+   "name": "soldier_name_11101001", 
+   "level": 7, 
+   "xGridCount": 1, 
+   "bigPic": "11101001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 2.8, 
+   "reliveTime": 5, 
+   "warriorType": 1
+  }
+ ], 
+ "11101008": [
+  {
+   "consume": 611, 
+   "skillDisp": [
+    201001, 
+    201002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11101001", 
+   "reliveRes1": 74, 
+   "unitType": 1, 
+   "defense": 19, 
+   "reliveRes7": 2, 
+   "carry": 40, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "hb11101001", 
+   "id": 11101008, 
+   "costRes2": 0, 
+   "power": 102, 
+   "advantage": [
+    11103001
+   ], 
+   "activityPoint": 100, 
+   "attack": 343, 
+   "produceTime": 20, 
+   "costRes8": 0, 
+   "desc": "soldier_desc_11101001", 
+   "type": 1, 
+   "costRes1": 220, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 1, 
+   "hit": 0.84, 
+   "costRes7": 11, 
+   "uiOrder": 1, 
+   "hp": 11324, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11102001
+   ], 
+   "info": "soldier_info_11101001", 
+   "name": "soldier_name_11101001", 
+   "level": 8, 
+   "xGridCount": 1, 
+   "bigPic": "11101001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 3.19, 
+   "reliveTime": 5, 
+   "warriorType": 1
+  }
+ ], 
+ "11101009": [
+  {
+   "consume": 940, 
+   "skillDisp": [
+    201001, 
+    201002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11101001", 
+   "reliveRes1": 76, 
+   "unitType": 1, 
+   "defense": 22, 
+   "reliveRes7": 2, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11101001", 
+   "id": 11101009, 
+   "costRes2": 0, 
+   "power": 157, 
+   "advantage": [
+    11103001
+   ], 
+   "activityPoint": 140, 
+   "attack": 444, 
+   "produceTime": 22, 
+   "costRes8": 6, 
+   "desc": "soldier_desc_11101001", 
+   "type": 1, 
+   "costRes1": 286, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 1, 
+   "hit": 0.86, 
+   "costRes7": 14, 
+   "uiOrder": 1, 
+   "hp": 17158, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11102001
+   ], 
+   "info": "soldier_info_11101001", 
+   "name": "soldier_name_11101001", 
+   "level": 9, 
+   "xGridCount": 1, 
+   "bigPic": "11101001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 3.64, 
+   "reliveTime": 6, 
+   "warriorType": 1
+  }
+ ], 
+ "11101010": [
+  {
+   "consume": 1446, 
+   "skillDisp": [
+    201001, 
+    201002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11101001", 
+   "reliveRes1": 78, 
+   "unitType": 1, 
+   "defense": 25, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11101001", 
+   "id": 11101010, 
+   "costRes2": 0, 
+   "power": 241, 
+   "advantage": [
+    11103001
+   ], 
+   "activityPoint": 195, 
+   "attack": 577, 
+   "produceTime": 23, 
+   "costRes8": 8, 
+   "desc": "soldier_desc_11101001", 
+   "type": 1, 
+   "costRes1": 371, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 1, 
+   "hit": 0.88, 
+   "costRes7": 18, 
+   "uiOrder": 1, 
+   "hp": 25997, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11102001
+   ], 
+   "info": "soldier_info_11101001", 
+   "name": "soldier_name_11101001", 
+   "level": 10, 
+   "xGridCount": 1, 
+   "bigPic": "11101001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 4.15, 
+   "reliveTime": 6, 
+   "warriorType": 1
+  }
+ ], 
+ "11101011": [
+  {
+   "consume": 2225, 
+   "skillDisp": [
+    201001, 
+    201002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11101001", 
+   "reliveRes1": 86, 
+   "unitType": 1, 
+   "defense": 29, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11101001", 
+   "id": 11101011, 
+   "costRes2": 0, 
+   "power": 371, 
+   "advantage": [
+    11103001
+   ], 
+   "activityPoint": 290, 
+   "attack": 750, 
+   "produceTime": 24, 
+   "costRes8": 10, 
+   "desc": "soldier_desc_11101001", 
+   "type": 1, 
+   "costRes1": 483, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 1, 
+   "hit": 0.9, 
+   "costRes7": 23, 
+   "uiOrder": 1, 
+   "hp": 39390, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11102001
+   ], 
+   "info": "soldier_info_11101001", 
+   "name": "soldier_name_11101001", 
+   "level": 11, 
+   "xGridCount": 1, 
+   "bigPic": "11101001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 4.73, 
+   "reliveTime": 6, 
+   "warriorType": 1
+  }
+ ], 
+ "11101012": [
+  {
+   "consume": 3423, 
+   "skillDisp": [
+    201001, 
+    201002
+   ], 
+   "yGridCount": 1, 
+   "headIcon": "zf11101001", 
+   "reliveRes1": 88, 
+   "unitType": 1, 
+   "defense": 33, 
+   "reliveRes7": 4, 
+   "carry": 40, 
+   "reliveRes8": 2, 
+   "skill": 0, 
+   "headIconMono": "hb11101001", 
+   "id": 11101012, 
+   "costRes2": 0, 
+   "power": 571, 
+   "advantage": [
+    11103001
+   ], 
+   "activityPoint": 435, 
+   "attack": 976, 
+   "produceTime": 25, 
+   "costRes8": 13, 
+   "desc": "soldier_desc_11101001", 
+   "type": 1, 
+   "costRes1": 627, 
+   "inCitySize": [
+    4, 
+    4
+   ], 
+   "inCityOrder": 1, 
+   "hit": 0.92, 
+   "costRes7": 30, 
+   "uiOrder": 1, 
+   "hp": 59682, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [
+    11102001
+   ], 
+   "info": "soldier_info_11101001", 
+   "name": "soldier_name_11101001", 
+   "level": 12, 
+   "xGridCount": 1, 
+   "bigPic": "11101001", 
+   "reliveRes2": 0, 
+   "attackSpeed": 5.39, 
+   "reliveTime": 7, 
+   "warriorType": 1
+  }
+ ], 
+ "11207001": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11207001", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 7, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11207001, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 50, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 618, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11207001", 
+   "level": 1, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 1
+  }
+ ], 
+ "11206003": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11206003", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11206003, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 115, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 1419, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11206003", 
+   "level": 3, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11206007": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11206003", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 17, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11206007, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 605, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 7477, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11206007", 
+   "level": 7, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11205004": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11205004", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 11, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11205004, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 174, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 2149, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11205004", 
+   "level": 4, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 1
+  }
+ ], 
+ "11205008": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11205004", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 19, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11205008, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 917, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 11329, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11205008", 
+   "level": 8, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 1
+  }
+ ], 
+ "11204001": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11204001", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 7, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11204001, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 50, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 618, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11204001", 
+   "level": 1, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 1
+  }
+ ], 
+ "11204002": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11204001", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 8, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11204002, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 76, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 936, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11204002", 
+   "level": 2, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 1
+  }
+ ], 
+ "11204003": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11204001", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 10, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11204003, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 115, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 1419, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11204003", 
+   "level": 3, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 1
+  }
+ ], 
+ "11204004": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11204001", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 11, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11204004, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 174, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 2149, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11204004", 
+   "level": 4, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 1
+  }
+ ], 
+ "11204005": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11204001", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 13, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11204005, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 264, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 3257, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11204005", 
+   "level": 5, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 1
+  }
+ ], 
+ "11203006": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11203006", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 117, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11203006, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 419250, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 2590965, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11203006", 
+   "level": 6, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 2
+  }
+ ], 
+ "11203007": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11203006", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 17, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11203007, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 1283, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 7930, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11203007", 
+   "level": 7, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 2
+  }
+ ], 
+ "11202004": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11202004", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 89, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11202004, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 182250, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 1128623, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11202004", 
+   "level": 4, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 2
+  }
+ ], 
+ "11202006": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11202004", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 13, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11202006, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 559, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 3455, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11202006", 
+   "level": 6, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 2
+  }
+ ], 
+ "11201003": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11201003", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 8, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11201003, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 230, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 709, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11201003", 
+   "level": 3, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ], 
+ "11201004": [
+  {
+   "consume": 0, 
+   "skillDisp": [], 
+   "yGridCount": 0, 
+   "headIcon": "11201003", 
+   "reliveRes1": 0, 
+   "unitType": 0, 
+   "defense": 9, 
+   "reliveRes7": 0, 
+   "carry": 0, 
+   "reliveRes8": 0, 
+   "skill": 0, 
+   "headIconMono": "", 
+   "id": 11201004, 
+   "costRes2": 0, 
+   "power": 0, 
+   "advantage": [], 
+   "activityPoint": 0, 
+   "attack": 348, 
+   "produceTime": 0, 
+   "costRes8": 0, 
+   "desc": "", 
+   "type": 0, 
+   "costRes1": 0, 
+   "inCitySize": [], 
+   "inCityOrder": 0, 
+   "hit": 1.0, 
+   "costRes7": 0, 
+   "uiOrder": 0, 
+   "hp": 1075, 
+   "attackArray": [
+    1, 
+    2, 
+    3
+   ], 
+   "disadvantage": [], 
+   "info": "", 
+   "name": "soldier_name_11201004", 
+   "level": 4, 
+   "xGridCount": 0, 
+   "bigPic": "", 
+   "reliveRes2": 0, 
+   "attackSpeed": 1.0, 
+   "reliveTime": 0, 
+   "warriorType": 3
+  }
+ ]
+}

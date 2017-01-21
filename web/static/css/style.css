@@ -1,0 +1,39 @@
+@charset 'utf-8';
+/*===========================  头部  ===========================*/
+/*---------------------------  头部  ---------------------------*/
+body,html{width: 100%;height: 100%;position:relative;min-width:1200px;}
+.warpMainBox{width: 100%;height: 100%;float: left;}
+	.warpMainBox *{transition:all .3s;}
+	.warpMainBox.active > .warpBoxL{width: 60px;}
+	.warpMainBox.active > .warpBoxR{left: 60px;}
+	.warpMainBox.active .warpBoxL .logo{background:url(../images/logo1.png) center top no-repeat;}
+	.warpMainBox.active .menuBox ul > li a span,.warpMainBox.active .menuBox ul > li a .icon_btnState,.warpMainBox.active .menuBox ul > li.active > ul{display: none !important;}
+
+.warpBoxL{width: 185px;height: 100%;background:#1c2b36;float: left;position:relative;z-index: 3;}
+	.warpBoxL .logo{width: 100%;float: left;height: 60px;text-align: center;margin-top: 20px;background:url(../images/logo.png) center top no-repeat;}
+	.menuBox{position:absolute;top:90px;left: 0;right: 0;overflow:auto;}
+	.menuBox ul{width: 100%;float: left;}
+	.menuBox ul li{width: 100%;float: left;margin-top: 1px;overflow: hidden;}
+	.menuBox ul li a{width: 100%;float: left;font-size: 14px;color:#9dbbd0;padding:6px 0;height:36px;overflow: hidden;}
+	.menuBox ul li a:hover,.menuBox ul li.active > a{background:#131e26;color:#fff;}
+	.menuBox ul li a i{width: 24px;height: 24px;float: left;}
+	.menuBox ul > li a i{margin-left: 15px;}
+	.menuBox ul > li a .icon_btnState{margin-left:0;}
+	.menuBox ul li a span{float: left;line-height: 24px;width:90px;overflow: hidden;}
+	.menuBox ul > li a span{margin-left:15px;}
+	.menuBox ul > li li a span{margin-left:54px;}
+	.menuBox ul > li li li a span{margin-left:68px;}
+	.menuBox ul > li > ul{display: none;}
+	.menuBox ul > li.active > ul{display:block;}
+	.menuBox .loginBox{float: left;width: 100%;height: 36px;line-height: 36px;padding-left: 3px;}
+	.menuBox .loginBox span,.menuBox .loginBox a{font-size: 14px;color: #9dbbd0;float: left;padding: 0;}
+	.menuBox .loginBox span{margin-left: 10px;}
+
+.warpBoxR{position: absolute;left: 185px;top: 0;right: 0;bottom: 0;}
+	.warpBoxT{width: 100%;height: 70px;float: left;background:#fff;position:relative;z-index: 2;box-shadow:2px 1px 5px #dcdfe0;padding:15px 20px;padding-bottom: 0;border-bottom:1px solid #dcdfe0;}
+	.warpBoxT .menuBtnTog{float: left;width: 30px;height: 30px;margin-top: 5px;cursor:pointer;transition:all .3s;}
+	.warpBoxT .title{float: left;line-height: 40px;font-size: 18px;color:#141f27;margin-left:20px;}
+	.warpBoxB{position: absolute;left: 0;top: 70px;right: 0;bottom: 0;background:#f0f3f4;padding:20px;}
+
+.warpContentBox{width: 100%;height: 100%;float: left;}
+.warpContentBox iframe{width: 100%;height: 100%;float: left;background:#fff;}

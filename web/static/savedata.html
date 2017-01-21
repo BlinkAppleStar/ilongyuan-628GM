@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>留存数据</title>
+	<link href="css/base.css" style="text/css" rel="stylesheet">
+	<link href="css/infoSearch.css" style="text/css" rel="stylesheet">
+</head>
+<body>
+	<div class="infoSearch_main savedata">
+		<div class="searchBox">
+			<form id="addSearchBox">
+				<span class="search_ins">渠道</span>
+				<select class="search_field select" name="channel" id="channel_select"></select>
+				<span class="search_ins">区服</span>
+				<select class="search_field select" name="gameArea" id="gameArea_select"></select>
+				<span class="search_ins">开始时间</span>
+				<input class="search_field Wdate" type="text" name="startDate" id="startTime" onclick="WdatePicker()">
+				<span class="search_ins">结束时间</span>
+				<input class="search_field Wdate" type="text" name="endDate" id="endTime" onclick="WdatePicker()">
+				<input class="search_reset" type="checkbox" id="resetDevice">
+				<span class="search_ins">重设设备</span>
+			</form>
+			<input class="searchBtn BFirst" type="button" name="" value="搜索" id="search">
+		</div>
+		<div class="searchTableBox">
+			<table class="searchTable" id="pegeContentBox"></table>
+		</div>
+	</div>
+	<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/My97DatePicker/WdatePicker.js"></script>
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript" src="js/page.js"></script>
+	<script type="text/javascript" src="js/savadata.js"></script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>封号公告设置编辑</title>
+	<link href="css/base.css" style="text/css" rel="stylesheet">
+	<link href="css/infoSearch.css" style="text/css" rel="stylesheet">
+</head>
+<body>
+	<div class="infoSearch_main homepubishEdit">
+		<div class="sendCon">
+			<form id="form_shieldEdit">
+				<div class="sendCon_giftSet oth">
+					<span class="sendCon_ins">ID：</span>
+					<input class="sendCon_field" type="hidden" name="mongo_id">
+					<span class="mongo_id"></span>
+				</div>
+				<div class="sendCon_giftSet oth">
+					<span class="sendCon_ins">UID：</span>
+					<input class="sendCon_field" type="text" name="uid">
+				</div>
+				<div class="sendCon_giftSet oth">
+					<span class="sendCon_ins">类型：</span>
+					<select class="search_field select" name="type">
+						<option value="black">黑名单</option>
+						<option value="white">白名单</option>
+					</select>
+				</div>
+				<div class="sendCon_giftSet oth">
+					<span class="sendCon_ins">开始时间：</span>
+					<input class="sendCon_field select Wdate" onclick="WdatePicker()" name="start_time">
+				</div>
+				<div class="sendCon_giftSet oth">
+					<span class="sendCon_ins">结束时间：</span>
+					<input class="sendCon_field select Wdate" onclick="WdatePicker()" name="end_time">
+				</div>
+			</form>
+			<div class="sendCon_giftSet cen">
+				<input class="searchBtn" type="button" name="" value="提交" id="postForm">
+			</div>
+		</div>
+	</div>
+	<div id="pageBox" class="pageBox mt20"></div>
+	<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/My97DatePicker/WdatePicker.js"></script>
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript" src="js/shieldEdit.js"></script>
+</body>
+</html>

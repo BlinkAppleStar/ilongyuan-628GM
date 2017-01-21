@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>玩家信息详情查询</title>
+	<link href="css/base.css" style="text/css" rel="stylesheet">
+	<link href="css/infoSearch.css" style="text/css" rel="stylesheet">
+</head>
+<body>
+
+	<div class="infoSearch_main gameUM">
+		<ul class="searchPlayerBox">
+			<li class="seaPB seaPB01">
+				<span class="seaPBCon" id="user_title_id">Uid：</span>
+				<span class="seaPBCon" id="user_title_money">累计充值：</span>
+			</li>
+			<li class="seaPB seaPB02">
+				<span class="seaPBCon" id="user_title_name">昵称：</span>
+				<span class="seaPBCon" id="user_title_num">拥有钻晶数量：</span>
+			</li>
+			<li class="seaPB seaPB03">
+				<span class="seaPBCon">
+					<span class="seaPBConF fl" id="user_title_cd">区服：</span>
+					<span class="seaPBConF fr" id="user_title_dj">主城等级：</span>
+				</span>
+				<span class="seaPBCon" id="user_title_dq">月卡到期时间（0表示当前无月卡）：</span>
+			</li>
+			<li class="seaPB seaPB04">
+				<span class="seaPBCon" id="user_title_lm">所属联盟：</span>
+				<span class="seaPBCon" id="user_title_yk">预购月卡数量：</span>
+			</li>
+			<li class="seaPB seaPB05">
+				<span class="seaPBCon" id="user_title_jj">联盟阶级：</span>
+				<!-- <span></span> -->
+			</li>
+            <li class="seaPB seaPB05">
+                <span class="seaPBCon" id="user_title_power">战斗力：</span>
+                <!-- <span></span> -->
+            </li>
+		</ul>
+		<ul class="searchMenuBox" id="styleListBtn">
+			<li class="checked" data-type="">资产信息</li>
+			<li data-type="build">建筑信息</li>
+			<li data-type="soldier">士兵信息</li>
+			<li data-type="tech">科技信息</li>
+			<li data-type="item">道具信息</li>
+			<li data-type="combat">战斗信息</li>
+		</ul>
+		<div class="searchTableBox">
+			<table class="searchTable" id="pegeContentBox"></table>
+		</div>
+	</div>
+	
+	<div id="pageBox" class="pageBox mt20"></div>
+
+	<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript" src="js/page.js"></script>
+	<script type="text/javascript" src="js/userdata.js"></script>
+</body>
+</html>

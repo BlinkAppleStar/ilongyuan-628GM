@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>CDkey工具</title>
+	<link href="css/base.css" style="text/css" rel="stylesheet">
+	<link href="css/infoSearch.css" style="text/css" rel="stylesheet">
+</head>
+<body>
+
+	<div class="infoSearch_main cdkey">
+		<div class="searchBox">
+			<form id="cdkSearchBox">
+				<span class="search_ins">渠道uid</span>
+				<select class="search_field select" name="channel"></select>
+				<span class="search_ins">礼包流水号</span>
+				<input class="search_field" type="text" name="gift_id">
+				<span class="search_ins">礼包名</span>
+				<input class="search_field" type="text" name="gift_name">
+				<input id="cdkSearch" class="searchBtn BFirst" type="button" name="" value="搜索">
+				<a class="btn_href" href="generategifts.html">
+					<input id="cdkey_generGiftsBtn" class="searchBtn BSecond" type="button" name="" value="生成礼包">
+				</a>
+			</form>
+		</div>
+		<div class="searchTableBox">
+			<table class="searchTable" id="pegeContentBox"></table>
+		</div>
+	</div>
+	<div id="pageBox" class="pageBox mt20"></div>
+	<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript" src="js/page.js"></script>
+	<script type="text/javascript" src="js/cdkey.js"></script>
+</body>
+</html>

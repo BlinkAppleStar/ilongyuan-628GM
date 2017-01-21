@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>封号工具</title>
+	<link href="css/base.css" style="text/css" rel="stylesheet">
+	<link href="css/infoSearch.css" style="text/css" rel="stylesheet">
+</head>
+<body>
+	<div class="infoSearch_main shield">
+		<div class="searchBox">
+			<form id="shieldSearchBox">
+				<span class="search_ins">uid</span>
+				<input class="search_field" type="text" name="uid">
+				<span class="search_ins">类型</span>
+				<select class="search_field select" name="type">
+					<option value="black" selected="selected">黑名单</option>
+					<option value="white">白名单</option>
+				</select>
+				<span class="search_ins">昵称</span>
+				<input class="search_field" type="text" name="name">
+				<span class="search_ins">渠道</span>
+				<select class="search_field select" name="channel"></select>
+				<span class="search_ins">区服lid</span>
+				<input class="search_field" type="text" name="lid">
+			</form>
+			<a href="javascript:;" id="addBtn" target="_blank">新增</a>
+			<input class="searchBtn BFirst" type="button" name="" value="搜索" id="shieldSearch">
+		</div>
+		<div class="searchTableBox">
+			<table class="searchTable" id="pegeContentBox"></table>
+		</div>
+		<div id="pageBox" class="pageBox mt20"></div>
+	</div>
+	<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/page.js"></script>
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript" src="js/shield.js"></script>
+</body>
+</html>

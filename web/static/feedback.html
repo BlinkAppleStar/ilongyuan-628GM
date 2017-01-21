@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>意见反馈</title>
+	<link href="css/base.css" style="text/css" rel="stylesheet">
+	<link href="css/infoSearch.css" style="text/css" rel="stylesheet">
+	<link href="css/style.css" style="text/css" rel="stylesheet">
+</head>
+<body>
+	<div class="infoSearch_main suggest">
+		<div class="searchBox">
+			<form id="feedbackSearchBox">
+				<span class="search_ins">渠道</span>
+				<select class="search_field select" name="channel"></select>
+				<span class="search_ins">区服</span>
+				<select class="search_field select" name="server_lid"></select>
+				<span class="search_ins">昵称</span>
+				<input class="search_field" type="text" name="user_name">
+				<span class="search_ins">uid</span>
+				<input class="search_field" type="text" name="uid">
+				<span class="search_ins">渠道uid</span>
+				<input class="search_field" type="text" name="channel_uid">
+				<span class="search_ins">开始时间</span>
+				<input class="search_field Wdate" type="text" name="created_time_min" onclick="WdatePicker()">				
+				<span class="search_ins">结束时间</span>
+				<input class="search_field Wdate" type="text" name="created_time_max" onclick="WdatePicker()">
+			</form>
+			<input class="searchBtn BFirst" type="button" value="搜索" id="feedbackSearch">
+		</div>
+		<div class="searchTableBox">
+			<table class="searchTable" id="pegeContentBox"></table>
+		</div>
+		<div id="pageBox" class="pageBox mt20"></div>
+	</div>
+	<div class="popupBox suggest">
+		<div class="zzc"></div>
+		<div class="contentBox">
+			<span class="title">玩家反馈</span>
+			<textarea class="content" name="userReply" disabled="disabled"></textarea>
+			<span class="title">客服回复</span>
+			<textarea class="content" name="serverReply" placeholder="在此输入内容"></textarea>
+			<input class="searchBtn submitBtn" type="button" name="submitBtn" value="提交">
+		</div>
+	</div>
+	<div class="alertBox">
+		<span class="title">确认提交？</span>
+		<div class="btnBox">
+			<button class="button cancelBtn">取消</button>
+			<button class="button confirmBtn">确定</button>
+		</div>
+	</div>
+	<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/My97DatePicker/WdatePicker.js"></script>
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript" src="js/page.js"></script>
+	<script type="text/javascript" src="js/feedback.js"></script>
+</body>
+</html>

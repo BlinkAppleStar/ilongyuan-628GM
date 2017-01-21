@@ -1,0 +1,1063 @@
+html{
+	height: 100%;
+	width: 100%;
+}
+body{
+	position: relative;
+	height: 100%;
+	width: 100%;
+	background: #f0f3f4;
+}
+.btn_href{
+	display: inline-block;
+}
+.infoSearch_main{
+	width: 100%;
+	font-size: 12px;
+	border: 1px solid #e3eaef;
+	box-shadow: 0 1px 6.3px .7px rgba(235,235,235,.84);
+}
+/*通用-搜索栏*/
+.infoSearch_main .searchBox{
+	width: 100%;
+	height: 54px;
+	padding: 16px 1.9%;
+	position: relative;
+	background-color: #fff;
+	overflow: hidden;
+	border-bottom: 1px solid #e3eaef;
+}
+.infoSearch_main .search_ins{
+	height: 23px;
+	line-height: 23px;
+	margin-right: 7px;
+	float: left;
+}
+.infoSearch_main .timesBox{
+	height: 23px;
+	line-height: 23px;
+	margin-right: 7px;
+	float: left;
+}
+.infoSearch_main .timesBox .search_field{width: 115px;margin: 0;}
+.infoSearch_main .timesBox span{line-height: 23px;margin:0 10px;float: left;}
+.infoSearch_main .search_field{
+	width: 7.22%;
+	height: 23px;
+	border: 1px solid #e3eaef;
+	border-radius: 2px;
+	outline: none;
+	display: inline-block;
+	float: left;
+	margin-right: 1.77%;
+}
+.infoSearch_main.generategifts .search_field.Wdate{
+	width: 150px;
+}
+.infoSearch_main .search_field.select{
+	appearance: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	background: url(../images/infoSearch_selectArrow.png) no-repeat 90.47%;
+	padding-right: 1.9%;
+	cursor: pointer;
+}
+option{
+	background-color: #f0f3f4;
+	color: #1c2b36;
+}
+.infoSearch_main .searchBtn{
+	width: 4.37%;
+	height: 23px;
+	color: #fff;
+	background-color: #0a93f3;
+	border: none;
+	outline: none;
+	border-radius: 4px;
+	cursor: pointer;
+	margin-right: 2.35%;
+	overflow: hidden;
+}
+.infoSearch_main .searchBtn.w50{
+	width: 50px;
+}
+.infoSearch_main .searchBtn.BFirst{
+	margin-left: 6.02%;
+}
+.infoSearch_main .search_reset{
+	display: inline-block;
+	float: left;
+	margin-right: 0.44%;
+	margin-top: 5px;
+}
+/*通用-表格*/
+.infoSearch_main .searchTableBox{
+	width: 100%;
+	background-color: #fff;
+}
+.searchTableBox .searchTable{
+	width: 100%;
+}
+.searchTableBox .searchTable thead tr{
+	height: 43px;
+	background-color: #f6f8f8;
+}
+.searchTableBox .searchTable thead th{
+	font-weight: normal;
+}
+.searchTableBox .searchTable tbody tr{
+	height: 47px;
+}
+.searchTableBox .searchTable tbody tr:hover{
+	background-color: #f6f8f8;
+}
+.searchTableBox .searchTable tbody td{
+	text-align: center;
+	border:  1px solid #e3eaef;
+	border-right: none;
+	empty-cells:show;
+	font-family:'微软雅黑 Regular','微软雅黑';
+}
+.searchTableBox .searchTable tbody tr td:first-child{
+	border-left: none;
+}
+.searchTableBox .searchTable .minWidthTh{
+	min-width: 139px;
+}
+/*通用-标签切换*/
+.infoSearch_main .searchMenuBox{
+	margin-top: 21px;
+	height: 42px;
+	width: 100%;
+	border-bottom: 1px solid #dee5e7;
+}
+.infoSearch_main .searchMenuBox li{
+	display: inline-block;
+	float: left;
+	width: 78px;
+	height: 42px;
+	font-size: 14px;
+	line-height: 42px;
+	color: #141f27;
+	font-weight: bold;
+	text-align: center;
+	cursor: pointer;
+	border: 1px solid transparent;
+}
+.infoSearch_main .searchMenuBox li.checked{
+	background-color: #fff;
+	border-color: #dee5e7;
+	border-bottom-color: #fff;
+}
+/* 通用-发送邮件按钮 */
+.sendEma{
+	width: 100%;
+	overflow: hidden;
+	margin-top: 21px;
+}
+.sendEmaBtn{
+	width: 70px;
+	height: 26px;
+	line-height: 26px;
+	color: #fefefe;
+	background-color: #23b7e5;
+	border: none;
+	outline: none;
+	border-radius: 4px;
+	cursor: pointer;
+	float: right;
+	margin-left: 30px;
+	text-align: center;
+}
+/* 通用-发送邮件/公告/礼包 */
+.infoSearch_main .sendTitleBox{
+	width: 100%;
+	height: 40px;
+	border: 1px solid #e3eaef;
+	box-shadow: 0 1px 6.3px .7px rgba(235,235,235,.84);
+	background-color: #18b7e8;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	padding: 0 2.41%;
+}
+.infoSearch_main .sendTitleBox .sendTitleBox_word{
+	font-size: 14px;
+	color: #fff;
+	line-height: 40px;
+}
+.infoSearch_main .sendCon{
+	width: 100%;
+	color: #1c2b36;
+	padding: 18px 2.41% 0;
+}
+.infoSearch_main.gameuser .sendCon{
+	background-color: #fff;
+	padding-bottom: 18px;
+}
+.infoSearch_main .sendCon .sendCon_giftSet{
+	width: 50%;
+	overflow: hidden;
+	margin-bottom: 18px;
+	overflow: hidden;
+}
+.infoSearch_main.gameuser .sendCon .sendCon_giftSet{
+	width: 100%;
+}
+.infoSearch_main .sendCon .sendCon_giftSet.oth{
+	margin-bottom: 11px;
+}
+.infoSearch_main .sendCon .sendCon_ins{
+	display: inline-block;
+	float: left;
+	line-height: 18px;
+	margin-right: 2.05%;
+}
+.infoSearch_main .sendCon .sendCon_txt{
+	float: left;
+	line-height: 18px;
+	margin: 0 5px;
+}
+.infoSearch_main.homepubishEdit .sendCon .sendCon_ins{
+	width: 90px;
+	height: 25px;
+	text-align: right;
+}
+.infoSearch_main .sendCon .sendCon_ins.oth{
+	width: 72px;
+	text-align: right;
+}
+.infoSearch_main .sendCon .sendCon_field{
+	width: 88%;
+	height: 18px;
+	border: 1px solid #e3eaef;
+	border-radius: 2px;
+	outline: none;
+	padding: 0 8px;
+	display: inline-block;
+	float: left;
+}
+.infoSearch_main.homepubishEdit .sendCon .sendCon_field{
+	width: 65%;
+}
+.infoSearch_main.homepubishEdit .sendCon .sendCon_radio{
+	float: left;
+	height: 25px;
+	line-height: 25px;
+}
+.infoSearch_main .sendCon .sendCon_field.select{
+	width: 26.82%;
+	appearance: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	background: url(../images/infoSearch_selectArrow.png) no-repeat 90.47%;
+	padding-right: 1.9%;
+	cursor: pointer;
+}
+.infoSearch_main .sendCon .sendCon_field.textarea{
+	height: 110px;
+	vertical-align: top;
+}
+.infoSearch_main .sendCon .sendCon_field.gift{
+	width: 30%;
+	margin-right: 2.05%;
+}
+.infoSearch_main .sendCon .search_field.select{
+	width: 100px;
+}
+.infoSearch_main .sendCon .sendCon_field.count{
+	width: 15%;
+}
+.infoSearch_main .sendCon .searchBtn{
+	width: 15.68%;
+	background-color: #18b7e8;
+	min-width: 66px;
+}
+.infoSearch_main.generategifts .sendCon .searchBtn{
+	margin-left: 10px;
+	width: auto;
+    padding: 0 20px;
+}
+.infoSearch_main.generategifts .sendCon .searchBtn.checkbox{
+	height: 12px;
+    min-width: 10px;
+    margin: 0 5px;
+}
+.infoSearch_main.gameuser .sendCon .searchBtn{
+	width: 100px;
+	margin-left: 0;
+}
+.infoSearch_main .sendCon .searchBtn.green{
+	background-color: #69d584;
+}
+.infoSearch_main .sendCon_giftSet.cen .searchBtn{
+	margin-left: 33.86%;
+	width: auto;
+    padding: 0 20px;
+}
+.infoSearch_main.homepubishSetting .sendCon_giftSet.cen{
+	height: 65px;
+}
+.infoSearch_main.homepubishSetting .sendCon_giftSet.cen a{
+	width: auto;
+	float: right;
+	margin-right: 10%;
+}
+.infoSearch_main.homepubishSetting .sendCon_giftSet.cen .searchBtn{
+	margin: 20px 0;
+    min-width: 60px;
+}
+.infoSearch_main .sendCon_giftSet.las{
+	margin-top: 38px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.infoSearch_main .sendCon_giftSet.las .sendCon_field{
+	margin-top: 2.5px;
+	float: none;
+}
+/* 通用-表格内文本框 */
+.infoSearch_main .searchTable .countBox{
+	width: 173px;
+	height: 23px;
+	border: 1px solid #e3eaef;
+	outline: none;
+	padding: 0 9px;
+	color: #88939a;
+}
+/* 新增活跃 */
+.infoSearch_main.add .searchTable tbody tr{
+	font-family: '宋体';
+}
+/* ltv统计 */
+.infoSearch_main.ltv .searchTable th:first-child{
+	min-width: 39px;
+}
+/* 玩家信息查询-详情 */
+.infoSearch_main.gameUM{
+	border: none;
+} 
+.infoSearch_main.gameUM .searchPlayerBox{
+	width: 100%;
+	height: 77px;
+	box-shadow: 0 0 3.6px .4px rgba(166,165,165,.39);
+	background-color: #fff;
+	border: 1px solid #dee5e7;
+	padding: 9.5px 7px;
+	overflow: hidden;
+}
+.infoSearch_main.gameUM .searchPlayerBox .seaPB{
+	float: left;
+	color: #141f27;
+	font-size: 12px;
+	line-height: 27px;
+	margin-right: 42px;
+}
+.infoSearch_main.gameUM .searchPlayerBox .seaPBCon{
+	display: block;
+	overflow: hidden;
+}
+.infoSearch_main.gameUM .searchPlayerBox .seaPBConF{
+	display: inline-block;
+}
+.infoSearch_main.gameUM .searchTable td,.infoSearch_main.gameUM .searchTable th{
+	color: #141f27;
+	border: none;
+}
+.infoSearch_main.gameUM .searchTable thead tr{
+	border: 1px solid #e3eaef;
+	height: 49px;
+	text-align: center;
+	border-top: none;
+}
+.infoSearch_main.gameUM .searchTable tbody tr{
+	border: 1px solid #e3eaef;
+	border-top: none;
+	height: 36px;
+}
+.infoSearch_main.gameUM .searchTable .searchBtn{
+	width: 68px;
+}
+.infoSearch_main.gameUM .searchTable .search_field{
+	float: none;
+	width:110px;
+	margin-left: 8px;
+}
+.infoSearch_main.gameUM .searchTable .search_ins{
+	float: none;
+	display: inline;
+}
+/* 付费数据 */
+.infoSearch_main.paydata .search_field.oth{
+	margin-right: 7px;
+}
+/* 玩家信息查询 */
+.infoSearch_main.gameuser .searchBox.server{
+	height: 42px;
+	padding: 9.5px 1.9%;
+}
+.infoSearch_main.gameuser .searchBox.empty{
+	height: 12px;
+	padding: 0;
+	border-bottom: 1px solid #e3eaef;
+}
+.infoSearch_main.gameuser .searchTable .gameInfo{
+	color: #035482;
+}
+.infoSearch_main.gameuser .searchTable .orderInfo{
+	color: #119ce4;
+}
+/* 实时在线 */
+.infoSearch_main.realtime .searchBtn.BFirst{
+	margin-left: 0;
+	position: absolute;
+	top: 16px;
+	right: 1.58%;
+}
+.infoSearch_main.realtime .search_field.oth{
+	margin-right: 1.14%;
+}
+.infoSearch_main.realtime .search_ins .red{
+	position: relative;
+	top: 3px;
+	color: #ff0000;
+	font-size: 14px;
+	font-style: normal;
+	margin-right: 4px;
+}
+.infoSearch_main.realtime .searchBox{
+	border-bottom: none;
+}
+.infoSearch_main.realtime .searchContain{
+	height: 626px;
+	width: 100%;
+	background-color: #fff;
+}
+.infoSearch_main.realtime .search_ins.high{
+	width: 28%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	cursor: default;
+}
+/* 流失数据 */
+.infoSearch_main.flowdata .searchBtn.BFirst{
+	min-width: 57px;
+}
+.infoSearch_main.flowdata .searchBtn{
+	background-color: #fff;
+	color: #141f27;
+	border: 1px solid #d1dcdf;
+}
+.infoSearch_main.flowdata .searchBtn.oth{
+	width: 10.68%;
+	min-width: 139px;
+}
+.infoSearch_main.flowdata .searchBtn.blue{
+	background-color: #0a93f3;
+	color: #fff;
+}
+/*.infoSearch_main.flowdata .searchTable thead th{
+	vertical-align: bottom;
+}*/
+/* 首页公告设置 */
+.infoSearch_main.homeset .searchBtn.BFirst{
+	margin: 0;
+	position: absolute;
+	top: 16px;
+	right: 3.44%;
+}
+.infoSearch_main.homeset .homesetLink{
+	color: #035482;
+	margin: 0 10px;
+}
+.infoSearch_main.shield .homesetLink{
+	margin: 0 10px;
+}
+.infoSearch_main.suggest .homesetLink{
+	color: #035482;
+	margin: 0 10px;
+}
+.infoSearch_main.homeset .search_ins{
+	margin-right: 0.24%;
+}
+.infoSearch_main.homeset .search_field{
+	margin-right: 1.28%;
+}
+/* CDkey */
+.infoSearch_main.cdkey .searchTableBox .searchBtn{
+	width: 57.7px;
+	height: 23px;
+	color: #fff;
+	background-color: #0a93f3;
+	border: none;
+	outline: none;
+	border-radius: 4px;
+	cursor: pointer;
+	overflow: hidden;
+}
+.infoSearch_main.cdkey .searchBtn.BSecond{
+	width: 6.78%;
+	position: absolute;
+	top: 16px;
+	right: 3.61%;
+}
+/* 封号工具*/
+.infoSearch_main.shield .searchTableBox .search_field.select{
+	width: 59px;
+	color: #fff;
+	border: none;
+	border-radius: 4px;
+	background: url(../images/infoSearch_selectArrow02.png) no-repeat 41px;
+	background-color: #0a93f3;
+	padding: 0 26px 0 9px;
+	float: none;
+}
+.infoSearch_main.shield .searchTableBox .search_field.red{
+	background-color: #f4180d;
+}
+/* 邮件 */
+.infoSearch_main.allemail .searchTableBox .searchBtn{
+	margin: 0 3px;
+	width: 40px;
+}
+.infoSearch_main.allemail .searchTableBox .countBox{
+	width: 91%;
+}
+/* 发送区服邮件 */
+.infoSearch_main.sendemail{
+	background-color: #fff;
+}
+/* 发送单人邮件 */
+.infoSearch_main.sendoneemail{
+	background-color: #fff;
+}
+/* 发布公告编辑 */
+.infoSearch_main.homepubishEdit{
+	background-color: #fff;
+}
+.infoSearch_main.homepubishSetting{
+	background-color: #fff;
+}
+.infoSearch_main.sendoneemail .emaBox1{
+	width: 100%;
+	overflow: hidden;
+	border-bottom: 1px solid #e3eaef;
+	box-shadow: 0 1px 6.3px .7px rgba(235,235,235,.84); 
+}
+.infoSearch_main.sendoneemail .emaBoxCon{
+	width: 70%;
+	overflow: hidden;
+	padding: 14px 0;
+}
+.infoSearch_main.sendoneemail .searchMenuBox{
+	height: 38px;
+	margin-top: 0;
+	/*background-color: #18b7e8;*/
+}
+.infoSearch_main.sendoneemail .searchMenuBox li{
+	height: 38px;
+	width: 85px;
+	line-height: 38px;
+	border:1px solid #e3eaef; 
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.infoSearch_main.sendoneemail .searchMenuBox li.checked{
+	background-color: #18b7e8;
+	border-bottom-color: #18b7e8; 
+	color: #fff;
+}
+.infoSearch_main.sendoneemail .sendTitleBox_word{
+	line-height: 38px;
+}
+.infoSearch_main.sendoneemail .sendCon.eBC1{
+}
+.infoSearch_main.sendoneemail .sendCon.eBC2{
+	display: none;
+}
+.infoSearch_main.sendoneemail .emaBoxCon_de{
+	width: 88.3%;
+	margin: 0 auto;
+}
+.infoSearch_main.sendoneemail .sendCon{
+	padding-top: 14px;
+	border: 1px solid #e3eaef;
+	box-shadow: 0 1px 6.3px .7px rgba(235,235,235,.84); 
+	border-top: none;
+}
+.infoSearch_main.sendoneemail .sendCon .sendCon_ins.abs{
+	width: 43px;
+	display: inline-block;
+	text-align: right;
+}
+.infoSearch_main.sendoneemail .emaBoxCon.eBC2 .sendCon_ins.abs{
+	width: 48px;
+}
+.infoSearch_main.sendoneemail .sendCon .sendCon_giftSet{
+	width: 100%;
+	margin-bottom: 11px;
+}
+.infoSearch_main.sendoneemail .sendCon_field.select{
+	width: 18.18%;
+}
+.infoSearch_main.sendoneemail .sendCon_field.textarea{
+	width: 70.26%;
+	height: 155px;
+}
+.infoSearch_main.sendoneemail .emaBoxCon_de .searchBtn{
+	margin-left: 9.54%;
+	min-width: 102px;
+}
+.infoSearch_main.sendoneemail .emaBoxCon.eBC1 .searchBtn{
+	margin-top: 3px;
+}
+.infoSearch_main.sendoneemail .emaBoxCon.eBC2 .searchBtn{
+	min-width: 113px;
+}
+.infoSearch_main.sendoneemail .emaBoxCon.eBC2 .sendCon_field.textarea{
+	height: 129px;
+}
+/*.infoSearch_main.sendoneemail .emaBoxCon.purple .sendTitleBox{
+	background-color: #7266ba;
+}
+.infoSearch_main.sendoneemail .emaBoxCon.purple .searchBtn{
+	background-color: #7266ba;
+}*/
+.infoSearch_main.sendoneemail .emaBoxCon .searchBtn.ding{
+	width: 102px;
+}
+.infoSearch_main.sendoneemail .emaBox2{
+	width: 100%;
+	overflow: hidden;
+	border-top: 1px solid #e3eaef;
+	box-shadow: 0 1px 6.3px .7px rgba(235,235,235,.84); 
+	margin-top: 15px;
+}
+.infoSearch_main.sendoneemail .emaBox2 .sendCon{
+	width: 70%;
+	padding: 14px 6.07% 0;
+}
+.infoSearch_main.sendoneemail .emaBox2 .sendCon_ins{
+	margin-right: 10px;
+}
+.infoSearch_main.sendoneemail .emaBox2 .sendCon_ins.abs{
+	width: auto;
+}
+.infoSearch_main.sendoneemail .emaBox2 .sendCon_ins a{
+	color: #035482;
+}
+.infoSearch_main.sendoneemail .emaBox2 .sendCon_giftSet.oth1{
+	margin-bottom: 15px;
+}
+.infoSearch_main.sendoneemail .emaBox2 .sendCon_giftSet.cen{
+	margin-bottom: 27px;
+}
+.infoSearch_main.sendoneemail .emaBox2 .sendCon_field{
+	width: 52.41%;
+}
+.infoSearch_main.sendoneemail .emaBox2 .sendCon_field.gift{
+	width: 16.91%;
+}
+.infoSearch_main.sendoneemail .emaBox2 .sendCon_field.count{
+	width: 8.71%;
+	margin-right: 2.05%;
+}
+.infoSearch_main.sendoneemail .emaBox2 .sendCon_field.textarea{
+	height: 110px;
+}
+.infoSearch_main.sendoneemail .emaBox2 .searchBtn{
+	width: 69px;
+}
+.infoSearch_main.sendoneemail .emaBox2 .searchBtn.green{
+	margin-left: 19.38%;
+}
+.infoSearch_main.sendoneemail .emaBox2 .sendCon_giftSet.las{
+	text-align: left;
+	margin-top: 25px;
+}
+.infoSearch_main.sendoneemail .emaBox2 .searchBtn.oth{
+	margin-left: 4%;
+}
+/* 生成礼包 */
+.infoSearch_main.generategifts{
+	background-color: #fff;
+}
+.infoSearch_main.generategifts .sendCon_giftSet{
+	margin-bottom: 18px;
+}
+.infoSearch_main.generategifts .sendCon_giftSet.las{
+	margin-bottom: 50px;
+}
+.infoSearch_main.generategifts .sendCon_giftSet.oth{
+	margin-bottom: 23px;
+}
+.infoSearch_main.generategifts .sendCon_giftSet.cen{
+	margin-bottom: 20px;
+}
+.infoSearch_main.generategifts .sendCon_giftSet.set{
+	margin-bottom: 10px;
+}
+.infoSearch_main.generategifts .sendCon_field{
+	height: 23px;
+	width: 74%;
+}
+.infoSearch_main.generategifts .sendCon_field.tex{
+	width: 25.91%;
+}
+.infoSearch_main.generategifts .sendCon_field.textarea{
+	height: 140px;
+}
+.infoSearch_main.generategifts .sendCon_ins{
+	line-height: 23px;
+	width: 100px;
+    text-align: right;
+}
+.infoSearch_main.generategifts .sendCon_giftSet .sendCon_ins:nth-of-type(2){
+	width: 50px;
+}
+.infoSearch_main.generategifts .sendCon_giftSet.las .searchBtn{
+	width: 159px;
+	min-width: 159px;
+	margin-top: 37px;
+	background-color: #0a93f3;
+	height: 29px;
+}
+/* 发布公告 */
+.infoSearch_main.homepublish{
+	background-color: #fff;
+}
+.infoSearch_main.homepublish .sendCon_field{
+	height: 23px;
+	width: 78%;
+}
+.infoSearch_main.homepublish .sendCon_ins{
+	line-height: 23px;
+	margin-right: 18px;
+	width: auto;
+}
+.infoSearch_main.homepublish .sendCon_field.textarea{
+	height: 98px;
+	resize: none;
+}
+.infoSearch_main.homepublish .sendCon_giftSet{
+	margin-bottom: 21px;
+}
+.infoSearch_main.homepublish .sendCon_giftSet.oth{
+	margin-bottom: 11px;
+}
+.infoSearch_main.homepublish .sendCon_giftSet.oth1{
+	margin: 18px 0;
+}
+.infoSearch_main.homepublish .sendCon_giftSet.cen{
+	margin: 37px 0 50px;
+}
+.infoSearch_main.homepublish .sendCon_giftSet.cen .searchBtn{
+	background-color: #0a93f3;
+}
+/* 意见反馈 */
+.infoSearch_main.suggest .searchTable .searchBtn{
+	width: 91px;
+}
+.popupBoxZZC{
+	display: none;
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	background:rgba(0,0,0,.2);
+}
+.popupBoxZZC .popupBox{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 360px;
+	height: 50%;
+	background: #fff;
+	-webkit-transform: translate(-50%,-50%);
+	-moz-transform: translate(-50%,-50%);
+	-o-transform: translate(-50%,-50%);
+	transform: translate(-50%,-50%);
+}	
+.popupBox .titleBox{
+	position: relative;
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+}
+.popupBox .titleBox .title{
+	display: block;
+	font-size: 18px;
+	line-height: 40px;
+	color: #363f44;
+	margin-left: 15px;
+}
+.popupBox .titleBox .closeBtn{
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 15px;
+	width: 15px;
+	height: 100%;
+	cursor: pointer;
+	background: url(../images/icon_closeBtn.png) no-repeat center;
+}
+.popupBox .contentBox{
+	width: 100%;
+	height: 300px;
+	overflow-y: auto;
+	padding: 0 20px;
+}
+#gift_detail{
+	width: 100%;
+	min-height: 100px;
+	margin-bottom: 10px;
+	padding: 0 10px;
+	border: 1px solid #e3eaef;
+	border-radius: 4px;
+	background: transparent;
+	resize: none;
+}
+.popupBox .contentBox .gift_list{
+	line-height: 25px;
+	margin: 10px 0;
+}
+.popupBox .contentBox .gift_list .icon_attchment{
+	display: inline-block;
+	width: 25px;
+	height: 100%;
+	line-height: 25px;
+	background: url(../images/icon_attchment.png) no-repeat 80% 60%;
+}
+.popupBox .contentBox .gift_list .gift_cont{
+	display: inline-block;
+	height: 25px;
+	padding: 0 10px;
+	border: 1px solid #e3eaef;
+}
+.popupBox .contentBox .gift_list .gift_cont.gift_name{
+	max-width: 175px;
+}
+#popTableBox{
+	display: none;
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	background: transparent;
+}
+#popTableBox .ZZC{
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(0,0,0,.3);
+}
+#popTableBox .searchTable{
+	position: absolute;
+	left: 5%;
+	top: 50%;
+	width: 90%;
+	margin-top: -45px;
+	background: #fff;
+	z-index: 1;
+}
+.searchTableBox .searchTable .combatStart1,.searchTableBox .searchTable .lose_data{
+	display: block;
+	cursor: pointer;
+	height: 47px;
+    line-height: 47px;
+}
+.searchTable.popTable thead tr:first-child{
+	border-bottom: 1px solid #e3eaef;
+	background: #fff;
+}
+.searchTable .recipients{
+	display: block;
+	cursor: pointer;
+	height: 47px;
+    line-height: 47px;
+}
+#recipientsList{
+	display: inline-block;
+	width: 100%;
+    min-height: 100px;
+    margin-bottom: 10px;
+    padding: 0 10px;
+    border: 1px solid #e3eaef;
+    border-radius: 4px;
+    background: transparent;
+}
+#recipientsList .leftList,#recipientsList .rightList{
+	float: left;
+	width: 50%;
+}
+#recipientsList .leftList span,#recipientsList .rightList span{
+	display:block;
+	line-height: 25px;
+}
+/*黑白名单列表*/
+.infoSearch_main.whiteList{
+	padding: 10px 20px;
+    background: #fff;
+}
+.infoSearch_main.whiteList .searchTableBox{
+	display: inline-block;
+}
+#whiteListSel{
+	width: 162px;
+	height: 204px;
+	font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    text-decoration: none;
+    color: #000000;
+}
+#whiteListSel option{
+	background: #fff;
+	text-indent: 10px;
+}
+.infoSearch_main.whiteList .searchTableBox .btnList{
+	margin-left: 30px;
+}
+.searchTableBox .button{
+	display: block;
+	padding: 5px 15px;
+	color: #fff;
+    background-color: #0a93f3;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.infoSearch_main.whiteList .popupBox{
+	display: none;
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	background: rgba(0,0,0,.3);
+}
+.infoSearch_main.whiteList .popupBox .contentBox,.popupBox.suggest .contentBox{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 300px;
+    height: 170px;
+    margin-left: -150px;
+    margin-top: -85px;
+    padding: 40px 10px 0;
+    background: #fff;
+}
+.infoSearch_main.whiteList .popupBox .contentBox .title,.popupBox.suggest .contentBox .title{
+	text-align: left;
+	font-size: 14px;
+}
+.infoSearch_main.whiteList .popupBox .contentBox .ipAddress{
+	width: 100%;
+	height: 25px;
+	line-height: 25px;
+	font-size: 14px;
+	margin: 10px 0;
+}
+.infoSearch_main.whiteList .popupBox .contentBox .btnBox{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 40px;
+    text-align: center;
+}
+.infoSearch_main.whiteList .popupBox .contentBox .btnBox .button{
+	padding: 5px 15px;
+	margin: 0 10px;
+	color: #fff;
+    background-color: #0a93f3;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.popupBox.suggest{
+	display: none;
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+}
+.popupBox.suggest .zzc{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,.3);
+}
+.popupBox.suggest .contentBox{
+	width: 450px;
+	height: 320px;
+	padding: 30px 20px 0;
+	margin-left: -225px;
+    margin-top: -160px;
+}
+.popupBox.suggest .contentBox .title{
+	display: block;
+	width: 100%;
+}
+.popupBox.suggest .contentBox .content{
+	width: 100%;
+	height: 100px;
+	resize: none;
+}
+.popupBox.suggest .submitBtn{
+	position: absolute;
+	right: 20px;
+	bottom: 10px;
+	padding: 0 20px;
+	height: 25px;
+	line-height: 25px;
+	background: #0a93f3;
+	color: #fff;
+	outline: none;
+	border: none;
+    cursor: pointer;
+    border-radius: 4px
+}
+.alertBox{
+	display: none;
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	width: 300px;
+    height: 170px;
+    margin-left: -150px;
+    margin-top: -85px;
+    padding: 40px 10px 0;
+    background: rgba(242, 242, 242, 1);
+    z-index: 10;
+}
+.alertBox .title{
+	display: block;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 25px;
+}
+.alertBox .btnBox{
+	position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 40px;
+    text-align: center;
+}
+.alertBox .btnBox .button{
+	padding: 5px 15px;
+	margin: 0 10px;
+	color: #fff;
+    background-color: #0a93f3;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: inherit;
+}

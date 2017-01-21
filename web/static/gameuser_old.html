@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>玩家信息查询</title>
+	<link href="css/base.css" style="text/css" rel="stylesheet">
+	<link href="css/infoSearch.css" style="text/css" rel="stylesheet">
+</head>
+<body>
+	<div class="infoSearch_main gameuser">
+		<div class="sendCon">
+			<form id="userSearchBox">
+				<div class="sendCon_giftSet oth">
+					<span class="search_ins">昵称</span>
+					<input class="search_field" type="text" name="name">
+					<span class="search_ins">uid</span>
+					<input class="search_field" type="text" name="uid">
+				</div>
+			</form>
+			<input class="searchBtn BFirst" type="button" id="userSearch" value="搜索">
+		</div>
+		<div class="searchTableBox">
+			<table class="searchTable" id="pegeContentBox"></table>
+		</div>
+	</div>
+	<div id="pageBox" class="pageBox mt20"></div>
+	<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript" src="js/page.js"></script>
+	<script type="text/javascript" src="js/userlist.js"></script>
+</body>
+</html>

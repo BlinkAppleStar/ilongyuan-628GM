@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>发布公告</title>
+	<link href="css/base.css" style="text/css" rel="stylesheet">
+	<link href="css/infoSearch.css" style="text/css" rel="stylesheet">
+</head>
+<body>
+	<div class="infoSearch_main homepublish">
+		<div class="sendCon">
+			<form id="postHomepiblish">
+				<div class="sendCon_giftSet oth">
+					<span class="sendCon_ins">类型：</span>
+					<select class="sendCon_field select" name="type"></select>
+				</div>
+				<div class="sendCon_giftSet oth">
+					<span class="sendCon_ins">语言：</span>
+					<select class="sendCon_field select" name="lang"></select>
+					<a class="btn_href" href="javascript:void;" target="_blank">
+						<input class="searchBtn ml20 settingBtn" type="button" name="" value="管理" data-name="language">
+					</a>
+				</div>
+				<div class="sendCon_giftSet oth">
+					<span class="sendCon_ins">版本：</span>
+					<select class="sendCon_field select" name="version"></select>
+					<a class="btn_href" href="javascript:void;" target="_blank">
+						<input class="searchBtn ml20 settingBtn" type="button" name="" value="管理" data-name="version">
+					</a>
+				</div>
+				<div class="sendCon_giftSet oth">
+					<span class="sendCon_ins">渠道：</span>
+					<select class="sendCon_field select" name="channel"></select>
+					<a class="btn_href" href="javascript:void;" target="_blank">
+						<input class="searchBtn ml20 settingBtn" type="button" name="" value="管理" data-name="channel">
+					</a>	
+				</div>
+				<div class="sendCon_giftSet oth">
+					<span class="sendCon_ins">区服：</span>
+					<select class="sendCon_field select" name="server_id"></select>
+				</div>
+				<div class="sendCon_giftSet oth">
+					<span class="sendCon_ins">标题：</span>
+					<input class="sendCon_field" type="text" name="title">
+				</div>
+				<div class="sendCon_giftSet">
+					<span class="sendCon_ins">内容：</span>
+					<textarea class="sendCon_field textarea" name="content"></textarea>
+				</div>
+				<div class="sendCon_giftSet oth">
+					<span class="sendCon_ins">落款：</span>
+					<input class="sendCon_field" type="text" name="inscribe">
+				</div>
+				<div class="sendCon_giftSet oth">
+					<span class="sendCon_ins">超链接：</span>
+					<input class="sendCon_field" type="text" name="url">
+				</div>
+				<div class="sendCon_giftSet oth1">
+					<span class="sendCon_ins">弹出时间设置：</span>
+				</div>
+				<div class="sendCon_giftSet oth">
+					<span class="sendCon_ins">开始：</span>
+					<input class="sendCon_field select Wdate" onclick="WdatePicker()" name="start_time">
+				</div>
+				<div class="sendCon_giftSet">
+					<span class="sendCon_ins">结束：</span>
+					<input class="sendCon_field select Wdate" onclick="WdatePicker()" name="end_time">
+				</div>
+			</form>
+			<div class="sendCon_giftSet cen">
+				<input class="searchBtn" type="button" name="" value="提交" id="postForm">
+			</div>
+		</div>
+	</div>
+	
+	<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/My97DatePicker/WdatePicker.js"></script>
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript" src="js/homepublish.js"></script>
+</body>
+</html>
