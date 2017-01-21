@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>发送邮件</title>
+	<link href="css/base.css" style="text/css" rel="stylesheet">
+	<link href="css/infoSearch.css" style="text/css" rel="stylesheet">
+</head>
+<body>
+	<div class="infoSearch_main sendoneemail">
+
+		<div class="emaBox1">			
+			<div class="emaBoxCon">
+				<div class="emaBoxCon_de">
+					<ul class="searchMenuBox" id="menuBoxBtn">
+						<li class="checked">
+							<span class="sendTitleBox_word">区服邮件</span>
+						</li>
+					</ul>
+					<div class="wh" id="menBox">
+						<div class="sendCon eBC1">
+							<form id="sendEmail1">
+								<div class="sendCon_giftSet">
+									<span class="sendCon_ins abs">区服</span>
+									<select class="sendCon_field select server_id"></select>
+								</div>
+								<div class="sendCon_giftSet">
+									<span class="sendCon_ins abs">渠道</span>
+									<select class="sendCon_field select" name="channel"></select>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="emaBox2">
+			<div class="sendCon">
+				<form id="sendEmailContent">
+					<div class="sendCon_giftSet">
+						<span class="sendCon_ins abs">标题</span>
+						<input class="sendCon_field" type="text" name="title" maxlength="15" placeholder="15字以内">
+					</div>
+					<div class="sendCon_giftSet">
+						<span class="sendCon_ins abs">内容</span>
+						<textarea class="sendCon_field textarea" placeholder="500字以内" maxlength="500" name="content"></textarea>
+					</div>
+				</form>
+				<!-- <div class="sendCon_giftSet mt15 oth1">
+					<span class="sendCon_ins oth">保存时间设置</span>
+					<select class="sendCon_field select gift">
+						<option>111111</option>
+						<option>222222</option>
+					</select>
+					<span class="sendCon_ins">后删除</span>
+				</div> -->
+				<!-- 礼包道具 -->
+				<div class="wh" id="addListBox"></div>
+				<!-- 礼包道具-完 -->
+				<div class="sendCon_giftSet">
+					<input class="searchBtn green" type="button" name="" id="listAddBtn" value="添加道具">
+				</div>
+				<div class="sendCon_giftSet las" id="emailSendBtn">
+					<input class="searchBtn oth js_send_time" data-id="1" type="button" value="立即发送">
+					<input class="searchBtn oth2 js_send_time" data-id="2" type="button" value="定时发送">
+					<input class="sendCon_field gift" type="text" name="send_time" onclick="WdatePicker()">
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript" src="js/My97DatePicker/WdatePicker.js"></script>
+	<script type="text/javascript" src="js/emailAllSend.js"></script>
+</body>
+</html>
